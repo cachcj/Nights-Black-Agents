@@ -37,5 +37,5 @@ To make things easier for you, try to have an answer for some — if not all —
 > ***When all goes wrong, it is tempting to cut and run. Why don't you?***
 > Do you have unfinished business? Do you need to balance the books? Do you think of Queen and Country? Or do you simply have nowhere else to go?
 
-[[Backgrounds]]→ (To begin picking your abilities)
+[[Backgrounds]]→ (To begin picking your abilities)  
 [[Dossier]]→ (To flesh out your motivations)
