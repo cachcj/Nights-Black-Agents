@@ -1,6 +1,6 @@
 ←[[General Abilities|General Abilities (main)]]
 
-> ***Cherries***
+> ***Cherries***  
 > Some General Abilities have Cherries, special features that kick in when the relevant ratings are 8+.
 ##### Athletics
 Athletics allows you to perform general acts of physical derring-do, from running to jumping to throwing grenades to rappelling down the side of a building to dodging falling or incoming objects. Any physical action not covered by another ability probably falls under the rubric of Athletics.
@@ -23,7 +23,7 @@ Discovering a hidden clue (especially a core clue) comes under [[Investigative A
 
 You can also use [[Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]] to detect bugs and cameras, especially those aimed at other targets.  
 
-> ***Perfect Holdout***  
+> ***Perfect Holdout***   
 > If your Conceal rating is 8+, you can hide a small object (e.g. knife, detonator, phone, lockpicks, .22 calibre pistol) on your person or in your clothing that cannot be found without an X-ray or strip search.  
 
 
