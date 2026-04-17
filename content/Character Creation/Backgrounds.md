@@ -7,9 +7,10 @@ Each Background package contains 6 points worth of Investigative Abilities and 1
 
 > View the available Backgrounds [[Background List|here]]. Feel free to add more than one Background!
 
-***Example Background:***
-**Cobbler**
+***Example Background:***  
+**Cobbler**  
 Within the MI6, Cobblers make "shoes" — false passports, visas, identity documents, and so forth. In an increasingly digital age, it's good to see solid hand-craftsmanship rewarded. 
+  
 These abilities also point towards counterfeiting, or any sort of image or document manipulation, as well as toward stopping such behaviours. 
 
 *Investigative Abilities*:

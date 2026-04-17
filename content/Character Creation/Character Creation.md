@@ -3,7 +3,7 @@
 Creating a character in Night's Black Agents is about building a competent intelligence operative with a defined role, skillset, and perspective. 
 
 ### Overview
-Character creation has three main parts:
+Character creation has three main parts:  
 1. Concept — Who you are and what you did before the game
 2. Abilities — What you are good at and how you solve problems
 3. Identity — What drives you and how you relate to the team
