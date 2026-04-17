@@ -1,6 +1,6 @@
 ←[[General Abilities|General Abilities (main)]]
 
-> ***Cherries***  
+> [!info] ***Cherries***  
 > Some General Abilities have Cherries, special features that kick in when the relevant ratings are 8+.
 ##### Athletics
 Athletics allows you to perform general acts of physical derring-do, from running to jumping to throwing grenades to rappelling down the side of a building to dodging falling or incoming objects. Any physical action not covered by another ability probably falls under the rubric of Athletics.
