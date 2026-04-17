@@ -3,7 +3,7 @@ title: Getting Started
 ---
 ### What is Night's Black Agents?
 
-### Where do I start?
+### How do I play?
 [[Character Creation]]  
 [[Core Mechanics]]  
 [[Investigative Play]]  
