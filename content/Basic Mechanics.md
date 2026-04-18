@@ -36,6 +36,6 @@ When gathering clues, you can specify exactly what you intend to achieve...
 #### Spends and Benefits
 Certain clues allow you to gain special benefits by spending points from the relevant Investigative Ability pool. 
 
-At first, the Director will offer you the opportunity to spend additional points as you uncover these clues. After that, it's up to you to ask if there's anything to be gained by spending extra time or effort on a given clue! 
+At first, the Director will offer you the opportunity to spend additional points as you uncover these clues. After that, it's up to you to ask if there's anything to be gained by spending extra time or effort on a given clue, or propose a benefit yourself! 
 
 Each benefit costs either 1 or 2 points from the relevant pool, depending on the difficulty of the additional action and the scope of the reward. You will always be told the cost of such benefits, but they are never required to resolve the situation or move on.

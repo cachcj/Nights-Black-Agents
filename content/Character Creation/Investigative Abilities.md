@@ -4,7 +4,7 @@ Investigative Abilities are central to Night's Black Agents. They enable you to 
 
 When choosing Investigative Abilities, it is better to get a large number of abilities with fairly low ratings, as even a 1-point rating is worth having.
 
-> [!note] **Note:** When allocating build points to Investigative Abilities, the total points in that ability is its ==***Rating***==. This is equal to its maximum ==***Pool***==, which describes the pool of points in the ability at any given time, which decreases as you spend points from the pool throughout play.
+> [!note] **Note:** When allocating build points to Investigative Abilities, the total points in that ability is its ==***Rating***== . This is equal to its maximum ==***Pool***== , which describes the pool of points in the ability at any given time, which decreases as you spend points from the pool throughout play.
 
 A rating of 1 in an Investigate Ability indicates that you're expertly trained. A higher rating still (2 / 3) implies you're one of the top people working on that subject, and indicates the character's defining abilities!
 
