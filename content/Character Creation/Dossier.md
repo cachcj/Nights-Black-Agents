@@ -1,3 +1,6 @@
+←[[Character Creation|Character Creation (main)]]  
+←[[General Abilities]]  
+
 With your various abilities assigned, and most likely some idea of your background and experience, it's time to finish putting together your character. If you’d like, of course, you can start at this end and build your agent’s emotional core first, then decide what experiences might have shaped them that way. From those elements, you can work up a background or two, and then build out their abilities as they become apparent.
 
 One interesting way to get a handle on your agent’s personality is to look at their Interpersonal abilities: what does their point spread indicate they value the most? Who do they focus on their highest-rated abilities? Why have they let other abilities diminish?
@@ -40,68 +43,17 @@ Every Agent has a Drive, a motivating factor that propels him into the storyline
 
 When playing roleplaying games, we sometimes tend to overprotect our characters, who we identify with more directly than we do the lead characters of books, movies, or TV shows. This habit can bring the story to a halt as the PCs hunker down and avoid trouble when they ought to be leaping into it with loaded guns or confident swagger. 
 
-Even when you can work around this
-tendency, it feels discordantly out of
-step with the sorts of stories that inspire
-the game. Drives remind us to break
-this habit. Most of the time, a Director
-who realizes you’ve slipped into overcautious
-mode and are holding up the
-progress of the story can spur you to
-action simply by reminding you of your
-Drive. She might explain to you why
-your Drive would spur you to action.
-Better yet, she could prompt you to
-explain it.
-When invoking Drives, Directors
-should take care not to guide the player’s
-specific response to the situation. The
-goal is to lead the player to move forward,
-not to force a particular choice. Avoid
-this by listing several viable choices, if
-the player has been stumped by his own
-caution.
-If the player digs in and refuses to have
-his character move, the Director may
-assess a stress penalty. This reflects
-the agent’s loss of concentration as he
-acts against his fundamental nature. The
-cost of all Investigative spends increases
-by 1, as does the Difficulty of all General
-tests, until the agent returns to form.
-The typical game unfolds without a
-single stress penalty coming into play,
-as players willingly follow the path they
-themselves have chosen.
-On the other hand, if the character
-really dives in and lives his Drive,
-possibly at great risk to himself, the
-Director may allow the agent to refresh
-1 or 2 pool points from any General
-ability, reflecting the inner certainty
-that comes of following deep-seated
-psychological motivations. This reward
-is limited to once per session per player.
-Choose your character’s Drive at the
-beginning of play, from the following
-list. Think of it as a key to his personality.
-Some of these Drives, such as Revenge
-and Slayer (and perhaps Programming),
-presume knowledge of vampires. A
-player might pick such a Drive knowing
-that it will only come into play once his
-agent meets the undead, or the Director
-might agree that the agent learned about
-vampires before the rest of the group
-(see First Blood, p. 42).
-Feel free to propose to the Director a
-custom Drive that fills the same function
-as the ones given here. Write up an
-explanatory paragraph in the same vein
-as the supplied Drives. If not immediately
-apparent, your Director may ask you to
-supply hypothetical examples of situations
-in which the Drive will keep the agent
-making active, interesting choices in
-solving the mystery or advancing the
-operation at hand.
+Drives remove the temptation to hunker down and avoid trouble. Most of the time, a Director who realizes you’ve slipped into overcautious mode and are holding up the progress of the story can spur you to action simply by reminding you of your Drive. They might explain to you why your Drive would spur you to action. Better yet, they could prompt you to explain it. 
+
+On the other hand, if the character really dives in and lives his Drive, possibly at great risk to himself, the Director may allow the agent to refresh 1 or 2 pool points from any General ability, reflecting the inner certainty that comes of following deep-seated psychological motivations. This reward is limited to once per session per player. 
+
+Choose your character’s Drive at the beginning of play, from the following list. Think of it as a key to their personality. Feel free to propose to the Director a custom Drive that fills the same function as the ones given here. Write up an explanatory paragraph in the same vein as the supplied Drives. 
+
+> For a list of Drives, see [[Drives List|here]].
+
+### Maps and Legends
+Develop at least a mental sketch of your Agent's past. It doesn’t have to be too detailed — you want to leave some room for skills and cities and NPCs to get added to your dossier in play — but knowing your agent’s past can help you come up with Network contacts, Cover identities, and other game events in an organic and natural-seeming fashion. You don’t have to reveal any of your past to the other players, at least not immediately. Enigmatically dropping hints about “the Regiment” or “some unpleasant times in Afghanistan” is true to the genre, certainly. In the final analysis, whether you reveal your past will depend more on your player group chemistry than on any other factor; great games can happen with total openness or with mystifying opacity.
+
+←[[Investigative Abilities]] — to start filling out your Agent's abilities  
+←[[Character Creation]] — to return to Character Creation  
+[[Basic Mechanics]]→ — to start learning to play the game!  
