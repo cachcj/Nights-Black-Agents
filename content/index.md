@@ -10,5 +10,3 @@ title: Getting Started
 [[Advanced Mechanics]]  
 [[Setting]]  
 
-### Related Reading
-

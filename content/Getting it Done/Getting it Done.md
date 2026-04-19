@@ -1,7 +1,7 @@
 ←[[index|Getting Started (main)]]
 
 > [!tip] ***TL;DR***
-> For a brief summary of the mechanics described on this page, view a brief summary [[TL;DR Mechanics|here]]!
+> For a brief summary of the mechanics described on this page, visit [[TL;DR Getting it Done|here]]!
 
 Night's Black Agents separates the business of discovering information with that of confronting the opposition. Your Investigative Abilities are your bread and butter when attempting the former, while the large majority of all other actions will depend on your General Abilities.
 
@@ -61,10 +61,10 @@ The Director determines how hard any given action is by assigning it a Difficult
 
 The player rolls a single die; if the result is equal to or higher than the Difficulty, the character succeeds. **After rolling the die, the player may choose to spend any number of points from the relevant ability pool, adding these to the final die result. While this may allow players to avoid over-committing to tests, it may also raise some tough questions. Is this test worth the points to pass? Can I live with the consequences of failing? Are the points better kept in reserve for later?**
 
-> [!attention] **Remember:** As you spend points from your ability pool, you pool dwindles but your rating remains the same.
+> [!attention] **Remember:** As you spend points from your ability pool, your pool dwindles but your rating remains the same.
 
 ##### Retries
-The test represents the characters' best chance to succeed. Once you fail, you cannot retry unless you take some other supporting action, or seek out some other advantage that would credibly increase your odds of success. If allowed to do this, you must spend more pool points than you did on the previous attempt. 
+The test represents the characters' best chance to succeed. Once you fail, you cannot retry unless you take some other supporting action, or seek out some other advantage that would credibly increase your odds of success. If allowed to do this, you must spend at least 1 pool point. 
 
 ##### Piggybacking
 When a group of characters act in concert to perform a task together, they designate one to take the lead. That character makes a simple test, spending any number of his own pool points towards the task, as usual. All other characters pay 1 point from their relevant pools in order to *gain the benefits of the leader's action*. These points are not added to the leader's die result. 
@@ -169,3 +169,5 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > If the runner has a Lead of 7 or better, and wins the exchange of chase ability tests, they can attempt a Sudden Escape instead of changing the Lead. This is something completely outside the parameters of the chase: jumping the car onto a barge in the canal, diving off the skyscraper roof and opening a parasail, or leaping off the overpass onto the roof of the passing train. 
 > 
 > A Sudden Escape requires a successful test of some kind. The Difficulty of the test is always at least 1 higher than the previous Difficulty in the chase. Success results in escape. A failure quite likely ends in a fireball or a bloody smear on the ground.
+
+←[[index|Getting Started (main)]]
