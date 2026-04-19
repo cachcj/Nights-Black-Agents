@@ -59,5 +59,40 @@ Simple tests occur when the character attempts an action without active resistan
 
 The Director determines how hard any given action is by assigning it a Difficulty (Number), ranging from 2 to 8 (or higher), where 2 offers only a slim chance of failure, 4 is the norm, and 8 verges on the impossible. 
 
-The player rolls a single die; if the result is equal to or higher than the Difficulty, the character succeeds. Before rolling the die, the player may choose to spend any number of points from the relevant ability pool, adding these to the final die result.
+The player rolls a single die; if the result is equal to or higher than the Difficulty, the character succeeds. **After rolling the die, the player may choose to spend any number of points from the relevant ability pool, adding these to the final die result. While this may allow players to avoid over-committing to tests, it may also raise some tough questions. Is this test worth the points to pass? Can I live with the consequences of failing? Are the points better kept in reserve for later?**
 
+> [!attention] **Remember:** As you spend points from your ability pool, you pool dwindles but your rating remains the same.
+
+##### Retries
+The test represents the characters' best chance to succeed. Once you fail, you cannot retry unless you take some other supporting action, or seek out some other advantage that would credibly increase your odds of success. If allowed to do this, you must spend more pool points than you did on the previous attempt. 
+
+##### Piggybacking
+When a group of characters act in concert to perform a task together, they designate one to take the lead. That character makes a simple test, spending any number of his own pool points towards the task, as usual. All other characters pay 1 point from their relevant pools in order to *gain the benefits of the leader's action*. These points are not added to the leader's die result. 
+
+For every character who is unable to pay this piggybacking cost, either because they lack pool points or do not have the ability at all, the Difficulty of the attempt increases by 2.
+
+##### Cooperation
+When two or more characters cooperate toward a single goal, they agree which of them is undertaking the task directly, and which is assisting. The leader may spend any number of points from their pool, adding them to the die roll. The assistant may pay any number of points from their pool, all but one of which is applied to the leader's die roll.
+
+> [!note] Piggybacking vs. Cooperation
+> As a rule of thumb, piggybacking is used whenever only a certain character can take the action, while the others simply reap the benefits.
+>   
+> Cooperation is used when both parties can actively cooperate to achieve the goal. 
+
+##### Tests Without Ability Ratings
+If you don't have any *rating* in a General Ability, you can't make a test in it. This rule rewards players who decide to build generalists, with 1 or 2 points in a broad variety of abilities, at the cost of two or three spotlight abilities.
+
+Similarly, this is why you are encouraged to keep a few build points in reserve, to be allocated into General Abilities that suddenly come up during play.
+
+In certain cases, the Director may allow tests with a 0 rating in the relevant General Ability by applying certain drastic downsides when appropriate — a roll of 1 may constitute an automatic, immediately damaging failure. A success may provide only a partial or moderate benefit.
+
+<br/>  
+
+### Contests
+Contests occur when two characters, often a player character and an NPC, actively attempt to thwart one another. The Director can escalate between three separate types of contest, depending on how dramatic the scene should be.
+
+- Player-facing contests are for quick, active, "one and done" sorts of contests: i.e., using Athletics to toss a grenade into a limousine.
+- Full contests amp up the drama; they're "showdowns": i.e., using Athletics to beat another skier to the bottom of the mountain.
+- Thriller chases are for action set pieces; in the spy thriller genre, as the name indicates, usually chase scenes: i.e., using Athletics for a full-blown parkour chase over the rooftops of Algiers.
+
+> [!note] Combat abilities (Hand-to-Hand, Shooting, and Weapons) use the [[Combat|Combat rules]]!

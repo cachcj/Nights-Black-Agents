@@ -6,8 +6,8 @@ title: Getting Started
 ### How do I play?
 [[Character Creation]]  
 [[Basic Mechanics]]  
-[[Investigative Play]]  
 [[Combat]]  
+[[Advanced Mechanics]]  
 [[Setting]]  
 
 ### Related Reading
