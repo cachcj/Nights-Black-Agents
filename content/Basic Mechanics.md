@@ -96,3 +96,10 @@ Contests occur when two characters, often a player character and an NPC, activel
 - Thriller chases are for action set pieces; in the spy thriller genre, as the name indicates, usually chase scenes: i.e., using Athletics for a full-blown parkour chase over the rooftops of Algiers.
 
 > [!note] Combat abilities (Hand-to-Hand, Shooting, and Weapons) use the [[Combat|Combat rules]]!
+
+##### Player-Facing Contests
+Player-facing contests work exactly the same as simple tests: you roll against a Difficulty, and spend ability pool points to add to your die roll. The one exception: there are no “retries” against active opposition. If you fail, you either suffer the consequences immediately or kick the contest up to a full contest as your opponent gets a chance to counter your failed move.
+
+The Director does not roll, only sets the Difficulty of the contest. This is usually 4, unless it is shifted up or down — some opponents are more alert than others, others might be clumsier on their feet when attempting to get the drop on you.
+
+##### Full Contests
