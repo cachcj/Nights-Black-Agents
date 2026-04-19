@@ -56,4 +56,4 @@ Develop at least a mental sketch of your Agent's past. It doesn’t have to be t
 
 ←[[Investigative Abilities]] — to start filling out your Agent's abilities  
 ←[[Character Creation]] — to return to Character Creation  
-[[Basic Mechanics]]→ — to start learning to play the game!  
+[[Getting it Done]]→ — to start learning to play the game!  

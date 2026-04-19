@@ -5,7 +5,7 @@ title: Getting Started
 
 ### How do I play?
 [[Character Creation]]  
-[[Basic Mechanics]]  
+[[Getting it Done]]  
 [[Combat]]  
 [[Advanced Mechanics]]  
 [[Setting]]  
