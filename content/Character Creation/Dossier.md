@@ -49,7 +49,7 @@ On the other hand, if the character really dives in and lives his Drive, possibl
 
 Choose your character’s Drive at the beginning of play, from the following list. Think of it as a key to their personality. Feel free to propose to the Director a custom Drive that fills the same function as the ones given here. Write up an explanatory paragraph in the same vein as the supplied Drives. 
 
-> For a list of Drives, see [[Drives List|here]].
+> [!note] For a list of Drives, see [[Drives List|here]].
 
 ### Maps and Legends
 Develop at least a mental sketch of your Agent's past. It doesn’t have to be too detailed — you want to leave some room for skills and cities and NPCs to get added to your dossier in play — but knowing your agent’s past can help you come up with Network contacts, Cover identities, and other game events in an organic and natural-seeming fashion. You don’t have to reveal any of your past to the other players, at least not immediately. Enigmatically dropping hints about “the Regiment” or “some unpleasant times in Afghanistan” is true to the genre, certainly. In the final analysis, whether you reveal your past will depend more on your player group chemistry than on any other factor; great games can happen with total openness or with mystifying opacity.
