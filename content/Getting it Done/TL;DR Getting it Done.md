@@ -1,4 +1,9 @@
 ←[[Getting it Done|Getting it Done (back)]]
+
+This section provides a high-level overview of the basic mechanics, which should be more than enough for players to play the game. 
+
+Throughout the game, the Director will let you know of any modifiers or changes to these rules, or other additional options that have become available to you.
+
 ### Finding Clues
 To find a clue, you need simply:
 - Get yourself into a scene where relevant information can be gathered
@@ -15,6 +20,7 @@ For attempted actions that pose little risk of failure, but still constitutes so
 <br/>  
 
 ### Tests
+
 > [!tip] ** Simple Tests**
 > Roll 1d6 vs Difficulty. After rolling the die, you may choose to spend any number of points from the relevant ability pool to increase your final die result.
 > 

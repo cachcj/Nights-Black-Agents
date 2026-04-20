@@ -8,8 +8,6 @@ Athletics allows you to perform general acts of physical derring-do, from runnin
 > [!tip] ***Hard to Hit***
 > If your Athletics rating is 8+, your [[Hit Threshold]], the Difficulty Number your opponents use when attempting to hit you in combat, is 4. Otherwise, your Hit Threshold is 3.
 
-> [!info] **Tip:** Having 8+ Athletics also allows you to use the [[Combat Manoeuvre]] *Jump In*!
-
 ##### Conceal
 You can hide things from view and conceal them from search. Your methods might include camouflage, holding items out on your person, snaking things into drawers unobserved, building secret compartments into cars or briefcases, or even altering a thing’s visual signature with paint or plaster. Among other things, you can also:  
 - mask an infrared or scent signature, given suitable equipment such as insulated cloth or coffee grounds

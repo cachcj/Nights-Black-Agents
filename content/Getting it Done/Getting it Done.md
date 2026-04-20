@@ -1,7 +1,7 @@
 ←[[index|Getting Started (main)]]
 
 > [!tip] ***TL;DR***
-> For a brief summary of the mechanics described on this page, visit [[TL;DR Getting it Done|here]]!
+> For a brief summary of the mechanics described on this page, visit [[TL;DR Getting it Done|here]]! Don't worry, the Director will clue you in on the more complex details if and when they become applicable.
 
 Night's Black Agents separates the business of discovering information with that of confronting the opposition. Your Investigative Abilities are your bread and butter when attempting the former, while the large majority of all other actions will depend on your General Abilities.
 
