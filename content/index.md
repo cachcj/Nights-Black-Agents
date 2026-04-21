@@ -15,7 +15,7 @@ Mechanically, *Night’s Black Agents* uses the GUMSHOE system, which is designe
 [[Combat]] — to see the rules for combat  
 
 
-[[Advanced Mechanics]] — Work in Progress! Describes advanced mechanics like Heat (attention) / safe havens / gaining and losing Stability (mental health)
+[[Diving Deeper]] — Work in Progress! Describes advanced mechanics like Heat (attention) / safe havens / gaining and losing Stability (mental health)
 [[Tradecraft 101]] — Work in Progress! Describes equipment and standard practices
 
 
