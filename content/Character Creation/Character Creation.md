@@ -8,7 +8,7 @@ Character creation has three main parts:
 2. Abilities — What you are good at and how you solve problems
 3. Identity — What drives you and how you relate to the team
 
-### The Character Sheet
+### [[The Character Sheet]]
 Here is an example of a Night's Black Agents character sheet, with each section labelled. You will learn more about each section as you go through [[Character Creation]]!
 ![[NBA1.jpg]]
 1. [[Dossier]]
