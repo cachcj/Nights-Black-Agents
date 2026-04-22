@@ -10,7 +10,7 @@ The finishing touches — brand of cigarettes, ethnic heritage, dress sense, fam
 ### Sources of Stability (optional)
 Sources of Stability describe what and who keeps you sane when the stress of your life of lies, violence, and fear threatens to shred your psyche. These provide you with the strength, release, and hope to keep fighting the good fight and going back into that crypt every night.
 
-Damages or threats to your Sources of Stability trigger immediate, difficult [[Stability tests]]. If you cannot tap your Sources of Stability, you cannot [[refresh Stability]] during or between operations! 
+Damages or threats to your Sources of Stability trigger immediate, difficult [[#Diving Deeper|Stability tests]]. If you cannot tap your Sources of Stability, you cannot [[Diving Deeper|refresh Stability]] during or between operations! 
 
 Feel free to collaborate with other players if you wish to have a shared Source of Stability. Name them as follows:
 
@@ -33,8 +33,7 @@ This is the person and place you would flee to without thinking: your old traine
 
 It is very poor tradecraft to actually flee to your place of Safety. Even if the vampires, hostile intelligence and security services, or other conspiracies don’t already have the place wired, your flight there would put your would-be refuge in their crosshairs.
 
-If you do get there, it counts as a [[haven]] (see p. 92) where you can immediately refresh three General ability pools. Any Preparedness tests you carry out there have a Difficulty that is 2 points lower than normal. In the very unlikely instance that you get there unobserved,
-you can refresh your whole Stability pool there, as well.
+If you do get there, it counts as a [[Diving Deeper|haven]] where you can immediately refresh three General ability pools. Any Preparedness tests you carry out there have a Difficulty that is 2 points lower than normal. In the very unlikely instance that you get there unobserved, you can refresh your whole Stability pool there, as well.
 
 If your place of Safety has an owner or caretaker, you can activate them as a free contact (without spending any Network points) with a rating of 6. This rating cannot be rebuilt with Network or experience points. You can only activate this contact once during the entire life of your character.
 

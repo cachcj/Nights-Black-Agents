@@ -61,6 +61,8 @@ When you roll on or over your opponent's Hit Threshold, you may deal damage to h
 | Machete, large improvised weapon, light firearm (.32 pistol, 6.5mm rifle, 20-gauge shotgun) | +0             |
 | Sword, fire axe, heavy firearm (9mm pistol, .30 rifle, 12-gauge shotgun)                    | +1             |
 | Very heavy firearm (.50MG, 12.7x99mm anti-materiel rifle)                                   | +2             |
+  
+
 Characters may never spend points from their combat pools to increase their damage rolls. The final damage result is then subtracted from the opponent's Health pool. When a combatant's Health pool drops to 0 or less, that combatant collapses from exhaustion or blood loss and is unable to continue fighting. Any combatants currently engaged with him in melee can then deal another instance of damage to him.
 
 > [!warning] **Tip:** Characters need reload only when dramatically appropriate. Otherwise, they're assumed to be able to refill the cylinders of their revolvers or swap magazines between shots! 
@@ -139,3 +141,6 @@ If your Weapons rating is 8+, choose a particular make of weapon: for example, a
 If your Shooting rating is 8+, choose a particular make of firearm: for example, a Walther PPK, Heckler & Koch MP5 submachine gun, .357 Desert Eagle. 
 
 In your hands, your chosen weapon increases its damage by 1. This applies not only to the particular weapon you own, but to all other weapons of the exact make. 
+
+←[[index|Getting Started (main)]]
+←[[Getting it Done]]

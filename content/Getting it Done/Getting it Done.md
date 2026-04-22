@@ -59,7 +59,7 @@ Simple tests occur when the character attempts an action without active resistan
 
 The Director determines how hard any given action is by assigning it a Difficulty (Number), ranging from 2 to 8 (or higher), where 2 offers only a slim chance of failure, 4 is the norm, and 8 verges on the impossible. 
 
-The player rolls a single die; if the result is equal to or higher than the Difficulty, the character succeeds. **After rolling the die, the player may choose to spend any number of points from the relevant ability pool, adding these to the final die result. While this may allow players to avoid over-committing to tests, it may also raise some tough questions. Is this test worth the points to pass? Can I live with the consequences of failing? Are the points better kept in reserve for later?**
+The player rolls a single die; if the result is equal to or higher than the Difficulty, the character succeeds. After rolling the die, the player may choose to spend any number of points from the relevant ability pool, adding these to the final die result. While this may allow players to avoid over-committing to tests, it may also raise some tough questions. Is this test worth the points to pass? Can I live with the consequences of failing? Are the points better kept in reserve for later?
 
 > [!attention] **Remember:** As you spend points from your ability pool, your pool dwindles but your rating remains the same.
 
@@ -131,7 +131,7 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > The Lead is used to track the back-and-forth of a thriller chase. The goal of the pursuer is to reduce the Lead to 0; the goal of the runner is to increase the Lead to 10, although this goal can be tweaked as circumstances dictate. Lead increments are abstract measurements of dramatic tension, not easily reducible to kilometres or yards.
 > 
 > > [!danger] ***Speed Always Wins***
-> > Being faster than your opponent (being in a faster vehicle, being in a [[souped-up vehicle]], having a higher Athletics pool) always comes with benefits in a chase, for example getting bonuses to your chases ability die rolls.
+> > Being faster than your opponent (being in a faster vehicle, being in a [[Diving Deeper|souped-up vehicle]], having a higher Athletics pool) always comes with benefits in a chase, for example getting bonuses to your chases ability die rolls.
 > 
 > If the Lead reaches 0 or below, *the pursuer has won*. The runner cannot run any more; they might have crashed or fallen, or simply be blocked by a car or a cul-de-sac. If the runner does not wish to surrender, a [[Combat|combat]] likely begins.
 > 
@@ -171,3 +171,4 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > A Sudden Escape requires a successful test of some kind. The Difficulty of the test is always at least 1 higher than the previous Difficulty in the chase. Success results in escape. A failure quite likely ends in a fireball or a bloody smear on the ground.
 
 ←[[index|Getting Started (main)]]
+[[Combat]]→
