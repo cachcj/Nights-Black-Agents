@@ -17,6 +17,7 @@ Each rating point in an Ability costs 1 point. You get 60 Investigative Ability 
 
 > [!tip] **Tip:** As with Investigative Abilities, feel free to keep a few build points in reserve! You may always allocate them throughout the game as situations arise!  
 
+#### Cherries
 Many General Abilities have ***Cherries***, features that become available when the character has 8 rating points or more in it. Agents always have access to that special benefit, even if their current pool in that ability has dropped to 0.  
 
 > [!tip] **Tip:** If you buy a rating of 8+ in Weapons or Shooting, you can spend more build points for [[Combat#Special Weapons Training|Special Weapons Training]] at this time.
