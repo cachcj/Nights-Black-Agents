@@ -142,5 +142,5 @@ If your Shooting rating is 8+, choose a particular make of firearm: for example,
 
 In your hands, your chosen weapon increases its damage by 1. This applies not only to the particular weapon you own, but to all other weapons of the exact make. 
 
-←[[index|Getting Started (main)]]
+←[[index|Getting Started (main)]]  
 ←[[Getting it Done]]
