@@ -130,14 +130,14 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > [!tip] ***The Lead***
 > The Lead is used to track the back-and-forth of a thriller chase. The goal of the pursuer is to reduce the Lead to 0; the goal of the runner is to increase the Lead to 10, although this goal can be tweaked as circumstances dictate. Lead increments are abstract measurements of dramatic tension, not easily reducible to kilometres or yards.
 > 
-> > [!danger] ***Speed Always Wins***
+> > [!danger] ***Speed Always Wins***  
 > > Being faster than your opponent (being in a faster vehicle, being in a [[Diving Deeper|souped-up vehicle]], having a higher Athletics pool) always comes with benefits in a chase, for example getting bonuses to your chases ability die rolls.
 > 
 > If the Lead reaches 0 or below, *the pursuer has won*. The runner cannot run any more; they might have crashed or fallen, or simply be blocked by a car or a cul-de-sac. If the runner does not wish to surrender, a [[Combat|combat]] likely begins.
 > 
 > If the Lead reaches 10 (or whatever goal the Director has set) or higher, *the runner has won*. The pursuers have lost the runner; he cannot be found for the remainder of the scene unless he draws renewed attention to himself somehow.
 > 
-> > [!danger] ***Raises***
+> > [!danger] ***Raises***  
 > > If a runner succeeds on their roll, they can raise both sides' Difficulty for the next round by 1. This represents trying to throw off the pursuer by changing the ground rules of the chase, if only for a little while. The runner should describe the specific action they're taking to set up the raise.
 > > 
 > > If the runner fails at the raised Difficulty, the Difficulty drops back to its previous level for the next test. If the runner succeeds and the pursuer fails, the runner may choose between keeping the Difficulty raised or lowering it for the next encounter. If both succeed, the runner may choose to raise the Difficulty again, or keep it raised. The pursuer must agree to lower the Difficulty for the runner to lower it in this circumstance.
