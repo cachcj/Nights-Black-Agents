@@ -1,6 +1,40 @@
+←[[index|Getting Started (main)]]
 ### Shock and Awe
+Involvement in horrific events can scar the psyche, with even non-supernatural horrors often proving to be emotionally destabilising. A single day of stark violence can bring on a thousand nights of self-inflicted terrors, and any confrontation with the supernatural — or even too much existential isolation — threatens a complete psychotic break, manifesting as a bizarre derangement of your own personal reality.
 
+##### Stability Tests
+When an incident challenges your grip on yourself, make a Stability test against a Difficulty of 4. As with any other General Ability test, you are always permitted to spend Stability points for bonuses to your roll.
+
+If you fail, you either suffer some negative result (usually, giving in to a vampire or to your own mental illness) or lose a number of points from your Stability pool, in addition to any points spent on the test itself. 
+
+##### Losing It
+Like Health, your Stability pool can drop below 0. 
+
+*If your Stability ranges from 0 to -5*, you are **Shaken**. You can still do your job, but seem distracted. You can't spend points from Investigative Ability pools, and the Difficulty for all General Ability tests increase by 1.
+
+*If your Stability ranges from -6 to -11*, you are **Shattered**. You acquire a [[Diving Deeper#Mental Illness|mental illness]], which stays with you even after your Stability pool is restored to normal. You also continue to suffer the ill effects of being Shaken. Furthermore, you permanently lose 1 point from your Stability *rating*.
+
+*If your Stability reaches -12 or less*, you are **Incurably Insane**. You may commit one last crazy act, which must either be self-destructively heroic or self-destructively destructive. Assuming you survive your permanent journey to the shores of madness, your character is quietly shipped off to a discreet Swiss sanatorium, never to be seen again. Time to create a new character. 
+
+##### Mental Illness
+This is the long-term effect of severe Stability loss, making no game-mechanical distinction between mental illnesses caused by mundane stresses and those caused by supernatural phenomena. 
+
+The first time your Stability drops below -5, you gain either Post-Traumatic Stress Disorder (PTSD) or an Addictive Disorder, manifesting after the crises has passed.
+
+The second time your Stability drops below -5, you acquire Obsession or Paranoia, manifesting immediately.
+
+The Director decides which disorder  you receive, if the circumstances or trigger event do not make the choice obvious. 
+
+> Read more about the abovementioned Mental Illnesses [[Mental Illness List|here]]
+> !
 ### Heat
+Running around all over Europe poking your nose where it doesn't belong attracts attention from governments, police agencies, and other unsympathetic official observers. *Night's Black Agents* represents this attention, and the concomitant investigations and pursuits, with the abstract value of Heat. 
+
+#### Effects of Heat
+
+#### Gaining Heat
+
+#### Losing Heat
 
 ### Recovery and Improvement
 
