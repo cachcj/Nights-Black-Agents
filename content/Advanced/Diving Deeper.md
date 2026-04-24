@@ -31,12 +31,43 @@ The Director decides which disorder  you receive, if the circumstances or trigge
 Running around all over Europe poking your nose where it doesn't belong attracts attention from governments, police agencies, and other unsympathetic official observers. *Night's Black Agents* represents this attention, and the concomitant investigations and pursuits, with the abstract value of Heat. 
 
 #### Effects of Heat
+The more heat you have on your, the more likely the long arm of the law is to take a gratuitous swipe at you. 
+
+Once per operation, one player rolls against the agents' current Heat level, spending points from any justified General Ability pool to affect this roll. 
+
+If the player beats the Heat, then the Agents avoid *additional* police scrutiny during that adventure. 
+
+If the player fails the Heat roll, then at some point during that operation the authorities will cross the Agents' path and attempt to interfere. 
+
+> [!warning] **Heat and Difficulty**  
+> If the Agents are in a jurisdiction particularly ill-disposed to them, the higher of their Heat number or the normal Difficulty is used for all suitable General tests.
+> 
 
 #### Gaining Heat
+The entire crew of Agents begin with 1 Heat in common, indicating their presence in at least some police file, surveillance footage, agency dossier, or criminal database. 
+
+They gain additional Heat through their own actions — the more dramatic and overt their activities, the more Heat they bring down on themselves. Typically, only one action brings Heat in a given op.
 
 #### Losing Heat
+Agents can lose Heat in four ways:
+- **Elapsed time:** Police searches become less intense over time.
+- **Changing jurisdiction:** Police searches are hard to coordinate across borders.
+- **Protection:**. Police searches can always be redirected by powerful parties.
+- **Shifting blame:** Police searches stop if the cops get a plausible collar.
 
 ### Recovery and Improvement
+Agents wear themselves down over the course of an operation, drawing on reserves of inner strength and focus built up over years of training and life-or-death decisions. And assuming they make those decisions wisely, what doesn't kill them may make them stronger.
 
-### Extended Chases 
+#### Regaining Pool Points
+
+##### Refreshing Investigative Ability Pools
+
+##### Refreshing General Ability Pools
+
+##### Havens
+
+##### Refreshing Health
+
+##### Refreshing Stability
+
 
