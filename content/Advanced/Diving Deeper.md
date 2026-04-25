@@ -59,13 +59,20 @@ Agents can lose Heat in four ways:
 Agents wear themselves down over the course of an operation, drawing on reserves of inner strength and focus built up over years of training and life-or-death decisions. And assuming they make those decisions wisely, what doesn't kill them may make them stronger.
 
 #### Regaining Pool Points
-
+Spent points from various pools are restored at different rates, depending on their narrative purpose.
 ##### Refreshing Investigative Ability Pools
+Investigative Ability pools are typically refreshed only at the end of each operation. In particularly long, multi-stage operations, certain story events may serve as breakpoints where all Investigative pools are refreshed.
 
 ##### Refreshing General Ability Pools
+At the Director's discretion, you may be able to refresh 1 or 2 pool points from any General Ability by following your **[[Dossier#Drives|Drive]]** into danger or story complication.
 
+Additionally, pools for the physical abilities of Athletics, Driving, Hand-to-Hand, Piloting, Shooting, and Weapons fully refresh whenever 24 hours of game-world time elapses since the last expenditure. The remaining General Abilities refresh at the end of each operation, like Investigative Abilities.
+
+The **[[General Abilities List#Cover|Cover]]** and **[[General Abilities List#Network|Network]]** abilities *do not refresh*!
 ##### Havens
+Whenever the Agents are able to reach a temporary haven — a bar, an all-night diner, a car trip, a church, a safe house — in which they're free from danger and horrific manifestations for an hour or more, they may fully refresh up to three General Abilities, except for Health and Sanity. They lose all refreshed points if their supposed place of safety is penetrated or reveals itself as a place of hazard.
 
+The Agents get only three opportunities for accelerated Haven refreshment per operation!
 ##### Refreshing Health
 
 ##### Refreshing Stability
