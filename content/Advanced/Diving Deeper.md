@@ -74,7 +74,19 @@ Whenever the Agents are able to reach a temporary haven — a bar, an all-night 
 
 The Agents get only three opportunities for accelerated Haven refreshment per operation!
 ##### Refreshing Health
-
+The Health pool refreshes over time, at a rate of 2 points per day of restful activity. **[[Combat#Exhaustion, Injury, and Death|Seriously wounded]]** characters heal at a different rate, over a period of hospitalisation. Use of the [[General Abilities List#Medic|Medic]] ability can restore a limited number of Health points in the course of an operation.
 ##### Refreshing Stability
+If a spend for your Agent was judged especially impressive, you may roll one die and refresh that many Stability points to reflect your Agent's restored confidence in themselves.
 
+Use of the [[General Abilities List#Shrink|Shrink]] ability permits limited recovery of Stability points in the course of an operation. 
+
+> [!notes] **Sources of Stability and Refreshes**  
+> If you choose to make use of the optional ***[[Dossier#Sources of Stability (optional)|Sources of Stability]]***, your Agent can restore a limited additional amount of Stability during each operation: 1 point by drawing strength from your Symbol, 2 points for a six-hour interaction with your Solace, and 1 point if your place of Safety remains inviolate throughout the operation. 
+
+Like Health, Stability refreshes over time, at a rate of 2 points per day of restful activity.
+
+#### Improving Your Character
+At the end of each operation, each player gets 5 experience points. These can be spent as build points to increase either Investigative or General Abilities, acquire new ones or bolstering existing ones.
+
+> [!warning] **Remember:** [[General Abilities List#Cover|Cover]] identities and [[General Abilities List#Network|Network]] contact pools can only be rebuilt with experience points, never refreshed!
 
