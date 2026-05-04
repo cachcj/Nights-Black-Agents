@@ -1,5 +1,5 @@
 ---
-aliases:
+title:
   - Character Creation
 ---
 ←[[index|Getting Started (main)]]
