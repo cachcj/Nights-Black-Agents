@@ -2,7 +2,6 @@
 aliases:
   - Character Creation
 ---
-
 ←[[index|Getting Started (main)]]
 
 Creating a character in Night's Black Agents is about building a competent intelligence operative with a defined role, skillset, and perspective. 

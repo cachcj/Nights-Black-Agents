@@ -9,7 +9,7 @@ Mechanically, *Night’s Black Agents* uses the GUMSHOE system, which is designe
 Below are links to pages describing the various aspects of the game. You needn't read through all of them, but it is highly recommended that you read (and follow along to) [[NBA Character Creation]] and the summarised rules for [[TL;DR Getting it Done|general gameplay]] and [[TL;DR Combat|combat]]!
 
 [[Setting]] — to read about the campaign setting: the city, the mood, and the people  
-[[NBA Character Creation]] — for a guide on how to create a character and fill out a character sheet  
+[[NBA Character Creation|Character Creation]] — for a guide on how to create a character and fill out a character sheet  
 [[Getting it Done]] — to see the rules for the most common actions in the game  
 [[Combat]] — to see the rules for combat  
 
