@@ -1,4 +1,4 @@
-←[[Character Creation|Character Creation (main)]]
+←[[NBA Character Creation|Character Creation (main)]]
 ←[[Character Concept]]
 
 Backgrounds represent your original training at MI6. They are simply suggested "packages" of abilities, existing to provide players with some shorthand guidelines to the breadth of their abilities. 

@@ -1,4 +1,4 @@
-←[[Character Creation]]
+←[[NBA Character Creation]]
 
 Investigative Abilities are central to Night's Black Agents. They enable you to gather information and drive the plot forward. Investigative Abilities always succeed if they apply at all. 
 

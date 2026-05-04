@@ -1,3 +1,8 @@
+---
+aliases:
+  - Character Creation
+---
+
 ←[[index|Getting Started (main)]]
 
 Creating a character in Night's Black Agents is about building a competent intelligence operative with a defined role, skillset, and perspective. 
@@ -9,7 +14,7 @@ Character creation has three main parts:
 3. Identity — What drives you and how you relate to the team
 
 ### [[The Character Sheet]]
-Here is an example of a Night's Black Agents character sheet, with each section labelled. You will learn more about each section as you go through [[Character Creation]]!
+Here is an example of a Night's Black Agents character sheet, with each section labelled. You will learn more about each section as you go through [[NBA Character Creation]]!
 ![[NBA1.jpg|605]]
 1. [[Dossier]]  
 2. [[Investigative Abilities]]  

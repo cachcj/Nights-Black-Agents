@@ -1,4 +1,4 @@
-←[[Character Creation|Character Creation (main)]]  
+←[[NBA Character Creation|Character Creation (main)]]  
 ←[[General Abilities]]
 
 Regardless of their background, each Agent has a Military Occupational Specialty. Think of these as your Cornerstones / Get Out of Jail Free.

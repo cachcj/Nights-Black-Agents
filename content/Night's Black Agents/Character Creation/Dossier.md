@@ -1,4 +1,4 @@
-←[[Character Creation|Character Creation (main)]]  
+←[[NBA Character Creation|Character Creation (main)]]  
 ←[[General Abilities]]  
 
 With your various abilities assigned, and most likely some idea of your background and experience, it's time to finish putting together your character. If you’d like, of course, you can start at this end and build your agent’s emotional core first, then decide what experiences might have shaped them that way. From those elements, you can work up a background or two, and then build out their abilities as they become apparent.
@@ -53,5 +53,5 @@ Choose your character’s Drive at the beginning of play, from the following lis
 Develop at least a mental sketch of your Agent's past. It doesn’t have to be too detailed — you want to leave some room for skills and cities and NPCs to get added to your dossier in play — but knowing your agent’s past can help you come up with Network contacts, Cover identities, and other game events in an organic and natural-seeming fashion. You don’t have to reveal any of your past to the other players, at least not immediately. Enigmatically dropping hints about “the Regiment” or “some unpleasant times in Afghanistan” is true to the genre, certainly. In the final analysis, whether you reveal your past will depend more on your player group chemistry than on any other factor; great games can happen with total openness or with mystifying opacity.
 
 ←[[Investigative Abilities]] — to start filling out your Agent's abilities  
-←[[Character Creation]] — to return to Character Creation  
+←[[NBA Character Creation]] — to return to Character Creation  
 [[Getting it Done]]→ — to start learning to play the game!  

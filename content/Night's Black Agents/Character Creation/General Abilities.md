@@ -1,4 +1,4 @@
-←[[Character Creation|Character Creation (main)]]
+←[[NBA Character Creation|Character Creation (main)]]
 ←[[Investigative Abilities]]
 
 General Abilities come in handy at the sharp end, helping you survive whatever awfulness or mayhem your Investigative Abilities have uncovered.  

@@ -1,4 +1,4 @@
-←[[Character Creation|Character Creation (main)]]
+←[[NBA Character Creation|Character Creation (main)]]
 
 Like with most other games, your Character Concept for your Agent informs many of the decisions you would make throughout the character creation process. 
 
