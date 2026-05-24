@@ -3,3 +3,5 @@
 [[Night's Black Agents]]  
 
 [[The Wildsea]]
+
+[[Blades in the Dark]]
