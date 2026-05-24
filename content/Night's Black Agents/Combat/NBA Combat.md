@@ -1,13 +1,18 @@
+---
+title:
+  - Combat
+---
+
 ←[[index|Getting Started (main)]]  
 
 > [!tip] ***TL;DR***
-> For a brief summary of the mechanics described on this page, visit [[TL;DR Combat|here]]! Don't worry, the Director will clue you in on the more complex details if and when they become applicable.
+> For a brief summary of the mechanics described on this page, visit [[NBA TL;DR Combat|here]]! Don't worry, the Director will clue you in on the more complex details if and when they become applicable.
 
 Sometimes, you simply have to get your hands dirty. Combat is a specialised sort of contest, usually involving any of the following abilities:
 - Hand-to-Hand vs. Hand-to-Hand, Hand-to-Hand vs. Weapons, or Weapons vs. Weapons: the characters are fighting at close quarters.
 - Shooting vs Shooting: the characters are apart from one another and trying to hit each other with guns.
 
-As with [[Getting it Done#Full Contests|full contests]], the combatants take turns using their abilities. The other guy may swing first, but the fighter with the highest rating seizes the **initiative**. Unlike an ordinary contest, in a fight it is usually advantageous to strike first.
+As with [[NBA Getting it Done#Full Contests|full contests]], the combatants take turns using their abilities. The other guy may swing first, but the fighter with the highest rating seizes the **initiative**. Unlike an ordinary contest, in a fight it is usually advantageous to strike first.
 
 #### Surprise
 Characters are surprised when they suddenly find themselves in a dangerous situation. Surprised characters go last in combat, and suffer a +2 increase to all General Ability Difficulties for any  immediate subsequent action. In a fight, this increase applies to the first round of combat.
@@ -78,7 +83,7 @@ However, the pain of your injuries increases the Difficulty of all tests and con
 
 *If your Health pool is between -6 and -11 inclusive*, you have been **Seriously Wounded**. You must make a Consciousness roll.
 
-Whether or not you maintain consciousness, you are no longer able to fight. Until you receive [[Combat#First Aid|first aid]], you will lose an additional Health point every half hour. 
+Whether or not you maintain consciousness, you are no longer able to fight. Until you receive [[NBA Combat#First Aid|first aid]], you will lose an additional Health point every half hour. 
 
 Even after you receive first aid, you must convalesce in a hospital or similar setting for a period of days.
 
@@ -122,7 +127,7 @@ To keep Night's Black Agents games running smoothly, the ranges of firefights ar
 > [!tip] **Near**  
 > You can see your opponent distinctly, perhaps across a warehouse or across the street, no more than 30 or 40 meters away. At this range, all shotguns are considered light firearms, with a base damage modifier of +0, and do no extra damage. This is the farthest range at which you can hit a target with a shotgun at all, or with a pistol or submachine gun. This is as far as you can throw any object. 
 >   
->   Thrown weapons at Near range do -2 damage, and the target's Hit Threshold is 1 higher, unless you have the [[General Abilities List#Weapons|Quincey Morris' Bowie Knife]] cherry.
+>   Thrown weapons at Near range do -2 damage, and the target's Hit Threshold is 1 higher, unless you have the [[NBA General Abilities List#Weapons|Quincey Morris' Bowie Knife]] cherry.
 
 > [!tip] **Long**  
 > Your opponent is within 100 yards. Opponents farther away cannot be reliably targeted at all, and are out of the combat. This is the farthest range at which you can hit a target with a rifle or assault rifle.
@@ -143,4 +148,4 @@ If your Shooting rating is 8+, choose a particular make of firearm: for example,
 In your hands, your chosen weapon increases its damage by 1. This applies not only to the particular weapon you own, but to all other weapons of the exact make. 
 
 ←[[index|Getting Started (main)]]  
-←[[Getting it Done]]
+←[[NBA Getting it Done|Getting it Done]]

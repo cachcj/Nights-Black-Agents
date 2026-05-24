@@ -1,11 +1,16 @@
+---
+title:
+  - General Abilities
+---
+
 ←[[NBA Character Creation|Character Creation (main)]]
-←[[Investigative Abilities]]
+←[[NBA Investigative Abilities|Investigative Abilities]]
 
 General Abilities come in handy at the sharp end, helping you survive whatever awfulness or mayhem your Investigative Abilities have uncovered.  
 
 General Abilities use different rules than Investigative ones, allowing for the possibility of failure.  You spend ability points and roll a 6-sided die to see if you succeed.  
 
-> [!note] See [[Getting it Done#Tests|here]] for a more detailed description of using General Abilities!
+> [!note] See [[NBA Getting it Done#Tests|here]] for a more detailed description of using General Abilities!
 
 Unlike with Investigative Abilities — where you are incentivised to build "wide" instead of "tall" — you'd want to concentrate your points among a few abilities, giving your agent comparatively higher ratings.   
 
@@ -20,8 +25,8 @@ Each rating point in an Ability costs 1 point. You get 60 Investigative Ability 
 #### Cherries
 Many General Abilities have ***Cherries***, features that become available when the character has 8 rating points or more in it. Agents always have access to that special benefit, even if their current pool in that ability has dropped to 0.  
 
-> [!tip] **Tip:** If you buy a rating of 8+ in Weapons or Shooting, you can spend more build points for [[Combat#Special Weapons Training|Special Weapons Training]] at this time.
+> [!tip] **Tip:** If you buy a rating of 8+ in Weapons or Shooting, you can spend more build points for [[NBA Combat#Special Weapons Training|Special Weapons Training]] at this time.
 
-[[Military Occupational Specialty]]→
+[[NBA Military Occupational Specialty|Military Occupational Specialty]]→
 #### See Also
-[[General Abilities List]] — For a more in-depth look at each General Ability.
+[[NBA General Abilities List|General Abilities List]] — For a more in-depth look at each General Ability.

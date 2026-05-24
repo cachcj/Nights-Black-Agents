@@ -1,4 +1,9 @@
-←[[Backgrounds|Backgrounds (back)]]
+---
+title:
+  - Background List
+---
+
+←[[NBA Backgrounds|Backgrounds (back)]]
 ##### *Analyst*
 Almost all modern spy work involves sifting through the immense amount of data available to come to some kind of useful conclusion. Much of this information isn't even hard to get — newspapers, periodicals and magazines provide oceans of raw open-source intelligence (OSINT) that a good analyst can turn into useful product for Her Majesty.
 Analysts have good minds for pattern matching; this might manifest in mathematical ability, musical creativity, or just low-level paranoia.
@@ -276,4 +281,4 @@ In the clandestine world technical experts are almost always “nuts and bolts�
 - Preparedness 5
 - Alternates: Explosive Devices, Surveillance
 
-←[[Backgrounds|Backgrounds (back)]]
+←[[NBA Backgrounds|Backgrounds (back)]]

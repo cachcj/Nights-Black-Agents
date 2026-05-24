@@ -1,5 +1,10 @@
+---
+title:
+  - Military Occupational Specialty
+---
+
 ←[[NBA Character Creation|Character Creation (main)]]  
-←[[General Abilities]]
+←[[NBA General Abilities|General Abilities]]
 
 Regardless of their background, each Agent has a Military Occupational Specialty. Think of these as your Cornerstones / Get Out of Jail Free.
 
@@ -10,4 +15,4 @@ Regardless of their background, each Agent has a Military Occupational Specialty
 
 > [!tip] **Tip:** Ideally, each Agent has their own MOS!
 
-[[Dossier]]→
+[[NBA Dossier|Dossier]]→

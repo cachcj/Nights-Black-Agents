@@ -1,3 +1,8 @@
+---
+title:
+  - Tradecraft 101
+---
+←[[Night's Black Agents|Getting Started (main)]]
 ### Tradecraft
 Being a spy means mastering, or at least becoming familiar with, a wide variety of tricks and tactics to provide you with a secure, reliable intelligence network and degrade that of the enemy. 
 
@@ -25,3 +30,5 @@ Carrying out a dead drop is usually a simple matter of Tradecraft, although shed
 
 ### Tag-Team Tactical Benefits
 
+
+←[[Night's Black Agents|Getting Started (main)]]

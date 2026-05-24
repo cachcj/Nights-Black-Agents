@@ -1,4 +1,9 @@
-←[[Combat|Combat (back)]]  
+---
+title:
+  - TL;DR Combat
+---
+
+←[[NBA Combat|Combat (back)]]  
 
 This section provides a high-level overview of the combat mechanics, which should be more than enough for players to play the game. 
 
@@ -27,4 +32,4 @@ When your Health pool drops below 0, you may be prompted to make Consciousness r
 > A character with the Medic ability can improve your condition by spending Medic pool points. For each point spent, you regain 2 Health points (1 Health point if administering First Aid to yourself).
 
 
-←[[Combat|Combat (back)]]
+←[[NBA Combat|Combat (back)]]

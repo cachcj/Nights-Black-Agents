@@ -1,4 +1,9 @@
-←[[index|Getting Started (main)]]
+---
+title:
+  - Diving Deeper
+---
+
+←[[Night's Black Agents|Getting Started (main)]]
 ### Shock and Awe
 Involvement in horrific events can scar the psyche, with even non-supernatural horrors often proving to be emotionally destabilising. A single day of stark violence can bring on a thousand nights of self-inflicted terrors, and any confrontation with the supernatural — or even too much existential isolation — threatens a complete psychotic break, manifesting as a bizarre derangement of your own personal reality.
 
@@ -12,7 +17,7 @@ Like Health, your Stability pool can drop below 0.
 
 *If your Stability ranges from 0 to -5*, you are **Shaken**. You can still do your job, but seem distracted. You can't spend points from Investigative Ability pools, and the Difficulty for all General Ability tests increase by 1.
 
-*If your Stability ranges from -6 to -11*, you are **Shattered**. You acquire a [[Diving Deeper#Mental Illness|mental illness]], which stays with you even after your Stability pool is restored to normal. You also continue to suffer the ill effects of being Shaken. Furthermore, you permanently lose 1 point from your Stability *rating*.
+*If your Stability ranges from -6 to -11*, you are **Shattered**. You acquire a [[NBA Diving Deeper#Mental Illness|mental illness]], which stays with you even after your Stability pool is restored to normal. You also continue to suffer the ill effects of being Shaken. Furthermore, you permanently lose 1 point from your Stability *rating*.
 
 *If your Stability reaches -12 or less*, you are **Incurably Insane**. You may commit one last crazy act, which must either be self-destructively heroic or self-destructively destructive. Assuming you survive your permanent journey to the shores of madness, your character is quietly shipped off to a discreet Swiss sanatorium, never to be seen again. Time to create a new character. 
 
@@ -25,8 +30,7 @@ The second time your Stability drops below -5, you acquire Obsession or Paranoia
 
 The Director decides which disorder  you receive, if the circumstances or trigger event do not make the choice obvious. 
 
-> Read more about the abovementioned Mental Illnesses [[Mental Illness List|here]]
-> !
+> Read more about the abovementioned Mental Illnesses [[NBA Mental Illness List|here]]!
 ### Heat
 Running around all over Europe poking your nose where it doesn't belong attracts attention from governments, police agencies, and other unsympathetic official observers. *Night's Black Agents* represents this attention, and the concomitant investigations and pursuits, with the abstract value of Heat. 
 
@@ -64,29 +68,30 @@ Spent points from various pools are restored at different rates, depending on th
 Investigative Ability pools are typically refreshed only at the end of each operation. In particularly long, multi-stage operations, certain story events may serve as breakpoints where all Investigative pools are refreshed.
 
 ##### Refreshing General Ability Pools
-At the Director's discretion, you may be able to refresh 1 or 2 pool points from any General Ability by following your **[[Dossier#Drives|Drive]]** into danger or story complication.
+At the Director's discretion, you may be able to refresh 1 or 2 pool points from any General Ability by following your **[[NBA Dossier#Drives|Drive]]** into danger or story complication.
 
 Additionally, pools for the physical abilities of Athletics, Driving, Hand-to-Hand, Piloting, Shooting, and Weapons fully refresh whenever 24 hours of game-world time elapses since the last expenditure. The remaining General Abilities refresh at the end of each operation, like Investigative Abilities.
 
-The **[[General Abilities List#Cover|Cover]]** and **[[General Abilities List#Network|Network]]** abilities *do not refresh*!
+The **[[NBA General Abilities List#Cover|Cover]]** and **[[NBA General Abilities List#Network|Network]]** abilities *do not refresh*!
 ##### Havens
 Whenever the Agents are able to reach a temporary haven — a bar, an all-night diner, a car trip, a church, a safe house — in which they're free from danger and horrific manifestations for an hour or more, they may fully refresh up to three General Abilities, except for Health and Sanity. They lose all refreshed points if their supposed place of safety is penetrated or reveals itself as a place of hazard.
 
 The Agents get only three opportunities for accelerated Haven refreshment per operation!
 ##### Refreshing Health
-The Health pool refreshes over time, at a rate of 2 points per day of restful activity. **[[Combat#Exhaustion, Injury, and Death|Seriously wounded]]** characters heal at a different rate, over a period of hospitalisation. Use of the [[General Abilities List#Medic|Medic]] ability can restore a limited number of Health points in the course of an operation.
+The Health pool refreshes over time, at a rate of 2 points per day of restful activity. **[[NBA Combat#Exhaustion, Injury, and Death|Seriously wounded]]** characters heal at a different rate, over a period of hospitalisation. Use of the [[NBA General Abilities List#Medic|Medic]] ability can restore a limited number of Health points in the course of an operation.
 ##### Refreshing Stability
 If a spend for your Agent was judged especially impressive, you may roll one die and refresh that many Stability points to reflect your Agent's restored confidence in themselves.
 
-Use of the [[General Abilities List#Shrink|Shrink]] ability permits limited recovery of Stability points in the course of an operation. 
+Use of the [[NBA General Abilities List#Shrink|Shrink]] ability permits limited recovery of Stability points in the course of an operation. 
 
 > [!notes] **Sources of Stability and Refreshes**  
-> If you choose to make use of the optional ***[[Dossier#Sources of Stability (optional)|Sources of Stability]]***, your Agent can restore a limited additional amount of Stability during each operation: 1 point by drawing strength from your Symbol, 2 points for a six-hour interaction with your Solace, and 1 point if your place of Safety remains inviolate throughout the operation. 
+> If you choose to make use of the optional ***[[NBA Dossier#Sources of Stability (optional)|Sources of Stability]]***, your Agent can restore a limited additional amount of Stability during each operation: 1 point by drawing strength from your Symbol, 2 points for a six-hour interaction with your Solace, and 1 point if your place of Safety remains inviolate throughout the operation. 
 
 Like Health, Stability refreshes over time, at a rate of 2 points per day of restful activity.
 
 #### Improving Your Character
 At the end of each operation, each player gets 5 experience points. These can be spent as build points to increase either Investigative or General Abilities, acquire new ones or bolstering existing ones.
 
-> [!warning] **Remember:** [[General Abilities List#Cover|Cover]] identities and [[General Abilities List#Network|Network]] contact pools can only be rebuilt with experience points, never refreshed!
+> [!warning] **Remember:** [[NBA General Abilities List#Cover|Cover]] identities and [[NBA General Abilities List#Network|Network]] contact pools can only be rebuilt with experience points, never refreshed!
 
+←[[Night's Black Agents|Getting Started (main)]]

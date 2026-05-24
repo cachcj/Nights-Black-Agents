@@ -1,3 +1,8 @@
+---
+title:
+  - Drives List
+---
+←[[NBA Dossier#Drives|Drives (back)]]
 ##### ***Altruism***
 You got into the game to protect innocents from terrorists, or disease, or war, or tyranny. You’re no innocent yourself now, but that only lets you know just how much innocence normal people have left to lose. Without a necessarily compromised agency telling you what to do, doing the right thing becomes not just easier, but imperative.
 
@@ -21,3 +26,4 @@ Just because you don’t wear the uniform or collect the paycheck any more doesn
 ##### ***Thrill-Seeker***
 You joined up thinking of Rambo or James Bond. Maybe you just wanted to prove yourself at first, but now you know the truth: there’s nothing better than surviving danger. You feel a new kind of alive when you’re closest to death. Nothing beats live fire for high stakes; not sex, not sports, not gambling, not coke. Maybe your team calls you an “adrenaline junkie,” but they’re sure glad to have you take point. When you know where to aim, you go in guns blazing, pitying people who will never know the feeling.
 
+←[[NBA Dossier#Drives|Drives (back)]]

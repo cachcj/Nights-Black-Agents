@@ -1,7 +1,12 @@
-←[[Diving Deeper#Mental Illness|Mental Illness (back)]]
+---
+title:
+  - Mental Illness List
+---
+
+←[[NBA Diving Deeper#Mental Illness|Mental Illness (back)]]
 
 #### Post-Traumatic Stress Disorder
-You are haunted by dreams of the incident, and spend your days in a constant state of anxiety and alert, as if prepared for it to repeat itself at any moment. Whenever your senses register any input reminding you of the incident, you must make a Stability test (Difficulty 4) or freeze up. If you freeze up, you are unable to take any action for fifteen minutes and remain **[[Diving Deeper#Losing It|Shaken]]** for twenty-four hours after that.
+You are haunted by dreams of the incident, and spend your days in a constant state of anxiety and alert, as if prepared for it to repeat itself at any moment. Whenever your senses register any input reminding you of the incident, you must make a Stability test (Difficulty 4) or freeze up. If you freeze up, you are unable to take any action for fifteen minutes and remain **[[NBA Diving Deeper#Losing It|Shaken]]** for twenty-four hours after that.
 
 #### Addictive Disorder
 You developed a serious addiction, most likely to alcohol or drugs, but anything within reason is possible: pornography, gambling, stimulants, even anti-depressants. When you do not have a supply available, you must make a Stability test (Difficulty 4) to proceed with the current operation rather than chasing your fix. When presented with an opportunity to gratify your addiction, you must make the same Stability test to resist the opportunity. Gratifying your addiction will likely cost you temporary Athletics or Health points, raise Difficulties, or interfere with many Investigative abilities, at the Director's discretion.
@@ -20,6 +25,6 @@ Your fear of unseen enemies, looming danger, and betrayal by your own side has s
 
 On the bright side, you can now spend Stability points on Surveillance tests.
 
-←[[Diving Deeper#Mental Illness|Mental Illness (back)]]
+←[[NBA Diving Deeper#Mental Illness|Mental Illness (back)]]
 
 

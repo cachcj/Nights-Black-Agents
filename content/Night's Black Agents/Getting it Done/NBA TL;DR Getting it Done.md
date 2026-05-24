@@ -1,4 +1,9 @@
-←[[Getting it Done|Getting it Done (back)]]
+---
+title:
+  - TL;DR Getting it Done
+---
+
+←[[NBA Getting it Done|Getting it Done (back)]]
 
 This section provides a high-level overview of the basic mechanics, which should be more than enough for players to play the game. 
 
@@ -38,4 +43,4 @@ For attempted actions that pose little risk of failure, but still constitutes so
 > > Pursuers and runners act in rounds. In each round, they reveal their spends simultaneously before rolling. The Lead increases or decreases based on the successes and failures (and margins thereof). The chase ends when the Lead is reduced to 0 or increased to 10.
 
 
-←[[Getting it Done|Getting it Done (back)]]
+←[[NBA Getting it Done|Getting it Done (back)]]

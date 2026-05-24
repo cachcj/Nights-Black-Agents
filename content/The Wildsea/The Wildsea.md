@@ -7,9 +7,10 @@ Now chainsaw-driven ships cut their way across dense treetop waves, their engine
 Your character is a windsailor, part of a crew cutting their way across the island-studded wilderness of the treetop sea on a vessel of your very own. You'll clash with survivor cultures and wild beasts, scavenge and salvage for wreckage and trade-goods, chase rumours, and uncover secrets. The focus of the game is on exploration, progress and change — you'll define the world of the Wildsea as you sail it.
 
 ### How do I play?
-Below are links to pages describing the various aspects of the game. You needn't read through all of them, but it is highly recommended that you read (and follow along to) [[The Wildsea Character Creation|Character Creation]] and the summarised rules for gameplay!
+Below are links to pages describing the various aspects of the game. You needn't read through all of them, but it is highly recommended that you read (and follow along to) [[Wildsea Character Creation|Character Creation]] and the summarised rules for gameplay!
 
-[[Setting]] — to read about the campaign setting: the city, the mood, and the people  
-[[NBA Character Creation]] — for a guide on how to create a character and fill out a character sheet  
-[[Getting it Done]] — to see the rules for the most common actions in the game  
-[[Combat]] — to see the rules for combat  
+[[Wildsea Setting|Setting]]
+Character Creation
+Getting it Done
+
+[[Quickstart]]

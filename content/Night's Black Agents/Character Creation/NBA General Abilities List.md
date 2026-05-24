@@ -1,4 +1,9 @@
-←[[General Abilities|General Abilities (main)]]
+---
+title:
+  - General Abilities List
+---
+
+←[[NBA General Abilities|General Abilities (main)]]
 
 > [!info] ***Cherries***  
 > Some General Abilities have Cherries, special features that kick in when the relevant ratings are 8+.
@@ -6,7 +11,7 @@
 Athletics allows you to perform general acts of physical derring-do, from running to jumping to throwing grenades to rappelling down the side of a building to dodging falling or incoming objects. Any physical action not covered by another ability probably falls under the rubric of Athletics.
 
 > [!tip] ***Hard to Hit***
-> If your Athletics rating is 8+, your [[Hit Threshold]], the Difficulty Number your opponents use when attempting to hit you in combat, is 4. Otherwise, your Hit Threshold is 3.
+> If your Athletics rating is 8+, your [[NBA Combat#Hit Thresholds|Hit Threshold]], the Difficulty Number your opponents use when attempting to hit you in combat, is 4. Otherwise, your Hit Threshold is 3.
 
 ##### Conceal
 You can hide things from view and conceal them from search. Your methods might include camouflage, holding items out on your person, snaking things into drawers unobserved, building secret compartments into cars or briefcases, or even altering a thing’s visual signature with paint or plaster. Among other things, you can also:  
@@ -15,22 +20,22 @@ You can hide things from view and conceal them from search. Your methods might i
 - detect signs of a previous careful, professional search 
 - plant a listening device, hidden camera, or bomb
 
-Wiring or building a bug or hidden camera uses [[Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]] or [[General Abilities List#Mechanics|Mechanics]]. Setting a bomb uses [[General Abilities List#Explosive Devices|Explosive Devices]]. Discovering a camouflaged object in a reconnaissance photo is [[Investigative Abilities List#Data Recovery|Data Recovery]]. Tapping a phone is [[General Abilities List#Mechanics|Mechanics]].  
+Wiring or building a bug or hidden camera uses [[NBA Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]] or [[NBA General Abilities List#Mechanics|Mechanics]]. Setting a bomb uses [[NBA General Abilities List#Explosive Devices|Explosive Devices]]. Discovering a camouflaged object in a reconnaissance photo is [[NBA Investigative Abilities List#Data Recovery|Data Recovery]]. Tapping a phone is [[NBA General Abilities List#Mechanics|Mechanics]].  
 
-Discovering a hidden clue (especially a core clue) comes under [[Investigative Abilities List#Notice|Notice]].   
+Discovering a hidden clue (especially a core clue) comes under [[NBA Investigative Abilities List#Notice|Notice]].   
 
-You can also use [[Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]] to detect bugs and cameras, especially those aimed at other targets.  
+You can also use [[NBA Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]] to detect bugs and cameras, especially those aimed at other targets.  
 
 > [!tip] ***Perfect Holdout***   
 > If your Conceal rating is 8+, you can hide a small object (e.g. knife, detonator, phone, lockpicks, .22 calibre pistol) on your person or in your clothing that cannot be found without an X-ray or strip search.  
 
 
 ##### Cover
-This ability represents your stash of cover identities. It works something like [[Investigative Abilities List#Languages|Languages]] in play; at any time, you may reveal or remember the existence of a cover identity that you established previously: perhaps during your old life, or while freelancing since, or even earlier during the campaign.   
+This ability represents your stash of cover identities. It works something like [[NBA Investigative Abilities List#Languages|Languages]] in play; at any time, you may reveal or remember the existence of a cover identity that you established previously: perhaps during your old life, or while freelancing since, or even earlier during the campaign.   
 
 Provide the Director with as many details as they need to work it into the campaign. Assign each cover its own pool of points taken from your unassigned Cover pool; the “depth” of that cover identity corresponds to its point value. Tests of that identity — border crossings, gaining admission to restricted areas — will resolve as a test of that identity’s pool against a Difficulty (usually 4) dependent on the level of security and on the scrutiny aimed at your false identity.  
 
-When that identity has exhausted its pool, it has been red-flagged in some security database, and the cover may fail at any time, or attract unwelcome attention from law enforcement, security agencies, or worse. A failed cover identity always attracts [[Heat]]. You can, of course, use unassigned Cover points or experience points to “backfill” a strained Cover and add more points to its pool, if you decide it’s worth it.  
+When that identity has exhausted its pool, it has been red-flagged in some security database, and the cover may fail at any time, or attract unwelcome attention from law enforcement, security agencies, or worse. A failed cover identity always attracts [[NBA Diving Deeper#Heat|Heat]]. You can, of course, use unassigned Cover points or experience points to “backfill” a strained Cover and add more points to its pool, if you decide it’s worth it.  
 
 > [!attention] **Remember:** Every player character begins with 10 free points of Cover. Unlike other General abilities, Cover does not refresh during or after an operation; it can only be “refilled” with experience points.  
 
@@ -48,7 +53,7 @@ A failed Digital Intrusion test almost always attracts [[Heat]] (see p. 87). Eve
 ##### Disguise
 This is the skill of altering your own appearance, posture, and voice to be unrecognizable. Disguising others in anything more complex than a baseball cap or false moustache is good only for brief periods, as posture and body language are vital components in any successful disguise.  
 
-This ability also covers selling yourself as a different person: vocal mannerisms, altered body language, dress and motion sense, and realistic-seeming reactions. This is how you pretend to be an arms dealer, museum official, or priest without actually having a Cover identity. (Uniforms or ID obtained with Filch or Forgery help with that, as does planted intel.) If the whole team has to dress up as priests to infiltrate the Vatican archives, use a [[piggybacked]] Disguise test to make sure nobody screws up.  
+This ability also covers selling yourself as a different person: vocal mannerisms, altered body language, dress and motion sense, and realistic-seeming reactions. This is how you pretend to be an arms dealer, museum official, or priest without actually having a Cover identity. (Uniforms or ID obtained with Filch or Forgery help with that, as does planted intel.) If the whole team has to dress up as priests to infiltrate the Vatican archives, use a [[NBA Getting it Done#Piggybacking|piggybacked]] Disguise test to make sure nobody screws up.  
 
 Successfully disguising yourself as an actual person already known to those you’re interacting with is extraordinarily difficult. Brief voice-only mimicry pits you against a Difficulty of 4. Face-to-face impersonation requires a successful roll against a Difficulty of 7 for every five minutes of sustained contact between you and the object of your impersonation.  
 
@@ -77,7 +82,7 @@ Driving doubles as an Investigative ability when used to:
 
 For every additional rating point in Driving, you may add an additional motor vehicle type to your repertoire. These include: motorcycle, transport truck, bus, construction equipment, remote-control car or robot, snowmobile, motorboat, and jet-ski.  
 
-For aircraft and most watercraft, use [[General Abilities List#Piloting|Piloting]] (p. 32). If you have both Driving and [[General Abilities List#Mechanics|Mechanics]], you can [[soup up]] a motor vehicle to increase its performance (see p. 102).  
+For aircraft and most watercraft, use [[NBA General Abilities List#Piloting|Piloting]] (p. 32). If you have both Driving and [[NBA General Abilities List#Mechanics|Mechanics]], you can [[soup up]] a motor vehicle to increase its performance (see p. 102).  
 
 > [!tip] ***Grand Theft Auto***  
 > If your Driving rating is 8 or more, you can spend 1 Driving pool point to steal and start any standard civilian or police vehicle that you can drive. Armoured limousines, super-luxury cars with digital keys, and other extraordinarily secure vehicles still require an Infiltration test to boost.
@@ -98,7 +103,7 @@ Explosive Devices doubles as an Investigative ability when used to:
 Conventional “all-purpose” explosives, especially military explosive devices, are standardized for safety and ease of handling in stress situations. Using a standard weight of plastic explosive and a detonator, a satchel charge, or thermite requires a Difficulty 2 test of Explosive Devices. Tossing a grenade (or a stick of burning dynamite) is an Athletics test; building a booby trap or setting a specific charge with either grenades or dynamite is much harder (Difficulty 4 or more).  
 
 > [!tip] ***Bigger Bang***  
-> If your Explosive Devices rating is 8+, you may spend 3 points from your Explosive Devices pool to add an extra die of damage to an explosive charge that you set, or 6 points to add 2 extra dice of [[damage]]. (See p. 67 for explosives damage.) This spend does not increase the result of your die roll.  
+> If your Explosive Devices rating is 8+, you may spend 3 points from your Explosive Devices pool to add an extra die of damage to an explosive charge that you set, or 6 points to add 2 extra dice of [[NBA Combat#Dealing Damage|damage]]. This spend does not increase the result of your die roll.  
 
 ##### Filch  
 Your nimble fingers allow you to unobtrusively manipulate small objects. You can:  
@@ -107,7 +112,7 @@ Your nimble fingers allow you to unobtrusively manipulate small objects. You can
 - slip cell keys from guards’ belts, lift ID badges from lapels, etc.
 - surreptitiously relieve opponents of their weaponry
 
-Note that disarming alarms requires either a [[General Abilities List#Digital Intrusion|Digital Intrusion]] test (to disarm computer-controlled alarm systems remotely) or an Infiltration test. Picking locks is [[General Abilities List#Infiltration|Infiltration]].  
+Note that disarming alarms requires either a [[NBA General Abilities List#Digital Intrusion|Digital Intrusion]] test (to disarm computer-controlled alarm systems remotely) or an Infiltration test. Picking locks is [[NBA General Abilities List#Infiltration|Infiltration]].  
 
 > [!tip] ***No Slipups***  
 > If your Filch rating is 8+, you may spend points after rolling the die for a test. For every 2 Filch pool points you spend after rolling the die, you increase the die result by 1. This only applies if you are undistracted and not directly observed. It never applies during a contest. You must describe the thing that almost went wrong, and weave a convincing tale explaining how your instincts and skills let you get away with your theft.  
@@ -123,12 +128,12 @@ Gambling doubles as an Investigative ability when used to:
 - use Bullshit Detector on professional gamblers despite their poker faces
 - interact with gamblers and blend in at casinos  
 
-The Director would likely disallow Gambling tests to score millions on Ascot or the World Cup. That said, an agent may well try gambling with high rollers as a means of funding the team’s operations — at the risk of acquiring more [[Heat]], of course (see p. 87).  
+The Director would likely disallow Gambling tests to score millions on Ascot or the World Cup. That said, an agent may well try gambling with high rollers as a means of funding the team’s operations — at the risk of acquiring more [[NBA Diving Deeper#Heat|Heat]], of course.  
 
 > [!attention] **Remember:** There is no skill to winning at many games of chance, such as roulette or baccarat: only financial resources and the will to quit when you’re ahead. This ability still applies to those games where reading the other player, knowledge of the track, or calculating the odds are actually valuable: poker, blackjack, horse racing, etc.  
 
 > [!tip] ***Luck of the Devil***  
-> If your Gambling rating is 8+, roll a die at the beginning of each session. During that session, you may substitute the result on that die for any single die result for your agent or for anyone opposing him in a contest or combat. This new result counts as an “unmodified result” for purposes of, e.g., [[Critical Hits]] or [[Throws]] (see pp. 73 and p. 76, respectively).  
+> If your Gambling rating is 8+, roll a die at the beginning of each session. During that session, you may substitute the result on that die for any single die result for your agent or for anyone opposing him in a contest or combat.
 
 ##### Hand-to-Hand  
 You can hold your own in a hand-to-hand fight, whether you wish to kill, knock out, restrain, or evade your opponent. For this purpose, “hand-to-hand” covers all sorts of unarmed combat, from Aikido matches to bar brawls to Muay Thai kickboxing bouts.  
@@ -143,7 +148,7 @@ Using brass knuckles, a sap, or a roll of coins balled in your fist is a Hand-to
 ##### Health  
 Health is an abstract, general indicator of your survivability. It includes your ability to avoid lasting damage with the kind of luck only thriller heroes seem to have. It also measures your ability to sustain injuries, resist infection, and survive the effects of toxins. When you get hit in the course of a fight, your Health pool is diminished. A higher Health pool allows you to stay in a fight longer before succumbing to your injuries.  
 
-When your Health pool is depleted, you may be dazed, wounded, or monster chow. [[Read more about depleted Health here]].  
+When your Health pool is depleted, you may be dazed, wounded, or monster chow. Read more about depleted Health pools [[NBA Combat#Exhaustion, Injury, and Death|here]]!  
 
 > [!attention] **Remember:** You begin with 4 free rating points in Health, and your Health rating is capped at 10.  
 
@@ -156,7 +161,7 @@ You’re good at placing yourself inside places you have no right to be. You can
 
 Despite its name, Infiltration is as useful for getting out of places undetected as it is for getting into them.  
 
-Use Infiltration to hide in cover or to creep around unnoticed. To hide in a crowd, to sneakily or cleverly shake a pursuer, or to stealthily follow a target, use [[General Abilities List#Surveillance|Surveillance]]. To outrun a pursuer, abseil onto a roof, or climb a fence, use [[General Abilities List#Athletics|Athletics]].  
+Use Infiltration to hide in cover or to creep around unnoticed. To hide in a crowd, to sneakily or cleverly shake a pursuer, or to stealthily follow a target, use [[NBA General Abilities List#Surveillance|Surveillance]]. To outrun a pursuer, abseil onto a roof, or climb a fence, use [[NBA General Abilities List#Athletics|Athletics]].  
 
 > [!tip] ***Open Sesame***  
 > If your Infiltration rating is 8+, you can automatically pick or bypass any normal, commercial door lock or alarm (on buildings or vehicles) without a test. (Otherwise, the Difficulty for such a lock is 2.) Many locks require specialized tools, possession of which without a locksmith’s license is a criminal offense in most jurisdictions. Complex or tricky locks may still require tests to open them speedily, to avoid noise or damage, or to relock afterward. Safes, handcuffs, security doors, and so forth always require tests of Infiltration.  
@@ -174,10 +179,10 @@ Mechanics doubles as an Investigative ability when used to:
 You can perform first aid on sick or injured individuals. For every 1 Medic point you spend, you heal 2 points of damage to others or 1 point to yourself. For more on the use of this ability, see [[p. 62]].  
 
 > [!tip] ***Medical School of Hard Knocks***  
-> If your Medic rating is 8+, you receive 1 free rating point in [[Investigative Abilities List#Diagnosis|Diagnosis]].  
+> If your Medic rating is 8+, you receive 1 free rating point in [[NBA Investigative Abilities List#Diagnosis|Diagnosis]].  
 
 ##### Network  
-This ability represents your network of professional contacts. It works something like [[General Abilities List#Cover|Cover]] in play; at any time, you may reveal or remember the existence of a member of your network in a given city. Assign this contact his own pool of points taken from your unassigned Network pool; that contact’s capacity to locate safe houses, import guns, provide false papers, etc. will resolve as a test of that contact’s pool against a Difficulty generally dependent on the level of [[Heat]] (see p. 87) and on the local jurisdiction. Finding an AKM assault rifle in Bosnia is easier than finding one in Manchester; crossing the border into Ireland is easier than crossing into Iran.  
+This ability represents your network of professional contacts. It works something like [[NBA General Abilities List#Cover|Cover]] in play; at any time, you may reveal or remember the existence of a member of your network in a given city. Assign this contact his own pool of points taken from your unassigned Network pool; that contact’s capacity to locate safe houses, import guns, provide false papers, etc. will resolve as a test of that contact’s pool against a Difficulty generally dependent on the level of [[NBA Diving Deeper#Heat|Heat]] and on the local jurisdiction. Finding an AKM assault rifle in Bosnia is easier than finding one in Manchester; crossing the border into Ireland is easier than crossing into Iran.  
 
 Your Network contacts do not necessarily know which agency you worked for, or even that you are (or were) a spy. They are simply people from before the campaign started who owe you or are otherwise disposed to help you out.  
 
@@ -212,14 +217,14 @@ If you have both Piloting and Mechanics, you can [[soup up]] a powered craft to 
 > [!tip] ***Grand Theft Aero***  
 > Or, if you prefer, Grand Theft Aqua.   
 > 
-> If your Piloting rating is 8+, you can spend 1 Piloting point to steal and start any standard civilian or police  vehicle (air or water) that you can pilot. Military craft and other extraordinarily secure vehicles still require an Infiltration test to boost. At Piloting 8+, you can also create bogus flight plans or port documents to allow rapid departure, although they may still require [[General Abilities List#Digital Intrusion|Digital Intrusion]] to insert into the system or [[Investigative Abilities List#Forgery|Forgery]] to make sure of all the necessary stamps.  
+> If your Piloting rating is 8+, you can spend 1 Piloting point to steal and start any standard civilian or police  vehicle (air or water) that you can pilot. Military craft and other extraordinarily secure vehicles still require an Infiltration test to boost. At Piloting 8+, you can also create bogus flight plans or port documents to allow rapid departure, although they may still require [[NBA General Abilities List#Digital Intrusion|Digital Intrusion]] to insert into the system or [[NBA Investigative Abilities List#Forgery|Forgery]] to make sure of all the necessary stamps.  
 
 ##### Preparedness  
 You expertly anticipate the needs of any operation by packing a kit efficiently arranged with necessary gear. Assuming you have immediate access to your kit, you can produce whatever object the team needs to overcome an obstacle. You make a [[simple test]] (p. 48); if you succeed, you have the item you want. You needn’t do this in advance of the adventure, but can dig into your kit bag (provided you’re able to get to it) as the need arises.  
 
 Items of obvious utility to a covert operation or anti-undead hit job do not require a test. These include but are not limited to: smart phones, weapons, detonators, flashlights, binoculars, batteries, gloves, zip cuffs, duct tape, rations, cigarettes and lighters, multitools, magnifying glasses, pocket mirrors, garlic, stakes, and crucifixes.  
 
-Other abilities imply the possession of basic gear suitable to their core tasks. Characters with [[General Abilities List#Medic|Medic]] or [[Investigative Abilities List#Diagnosis|Diagnosis]] have their own first aid kits or medical bags; [[Investigative Abilities List#Photography|Photographers]] come with cameras. If you have [[General Abilities List#Shooting|Shooting]], you have a gun, and so on. Preparedness does not intrude into their territory. It covers general-purpose investigative equipment, plus oddball items — a Ouija board, a baseball, a tube of Super Glue, a gas mask — that suddenly come in handy in the course of the story. The traditional “rappelling line just long enough to get me down off this building” is a classic Preparedness feat of the spy thriller genre; having it in your pack might be Difficulty 3, while having it coiled, hooked on your belt, and ready to go with a jump is Difficulty 6.  
+Other abilities imply the possession of basic gear suitable to their core tasks. Characters with [[NBA General Abilities List#Medic|Medic]] or [[NBA Investigative Abilities List#Diagnosis|Diagnosis]] have their own first aid kits or medical bags; [[NBA Investigative Abilities List#Photography|Photographers]] come with cameras. If you have [[NBA General Abilities List#Shooting|Shooting]], you have a gun, and so on. Preparedness does not intrude into their territory. It covers general-purpose investigative equipment, plus oddball items — a Ouija board, a baseball, a tube of Super Glue, a gas mask — that suddenly come in handy in the course of the story. The traditional “rappelling line just long enough to get me down off this building” is a classic Preparedness feat of the spy thriller genre; having it in your pack might be Difficulty 3, while having it coiled, hooked on your belt, and ready to go with a jump is Difficulty 6.  
 
 The sorts of items you can produce at a moment’s notice depend not on your rating or pool, but on narrative credibility. If the Director determines that your possession of an item would seem ludicrous, anachronistic, or out of genre, you don’t get to roll for it. You simply don’t have it. Any item which elicits a laugh from the group when suggested is probably out of bounds.  
 
@@ -233,7 +238,7 @@ The sorts of items you can produce at a moment’s notice depend not on your rat
 >- a gun smuggled in earlier and pre-positioned in the drop ceiling above you
 >- a traffic-snarling parade whose route you researched before the operation began
 >
->You must have had opportunity and the means to set up the action — which can include the help of fellow agents who “suddenly realize what you asked” when the stop lights all turn red. (This, by the way, is an excellent reason to keep pre-mission planning more impressionistic: more “blank space” available for preparation.) You must still make a Preparedness test, and you must still convince the Director that your precaution is credible. If the action required a test (of [Digital Intrusion](app://obsidian.md/General%20Abilities%20List#Digital%20Intrusion), [Explosive Devices](app://obsidian.md/General%20Abilities%20List#Explosive%20Devices), [Infiltration](app://obsidian.md/General%20Abilities%20List#Infiltration), [Mechanics](app://obsidian.md/General%20Abilities%20List#Mechanics), etc.) you or your then-unwitting collaborator must make it successfully.
+>You must have had opportunity and the means to set up the action — which can include the help of fellow agents who “suddenly realize what you asked” when the stop lights all turn red. (This, by the way, is an excellent reason to keep pre-mission planning more impressionistic: more “blank space” available for preparation.) You must still make a Preparedness test, and you must still convince the Director that your precaution is credible. If the action required a test (of [[NBA General Abilities List#Digital Intrusion|Digital Intrusion]], [[NBA General Abilities List#Explosive Devices|Explosive Devices]], [[NBA General Abilities List#Infiltration|Infiltration]], [[NBA General Abilities List#Mechanics|Mechanics]], etc.) you or your then-unwitting collaborator must make it successfully.
 
 ##### Sense Trouble  
 This ability allows you to perceive (either with sight or other senses) potential hazards to yourself or others. For example, you can:  
@@ -249,20 +254,20 @@ The Director should never require the use of this General ability to find clues 
 Sense Trouble can also be used as the ability to specifically locate the source of an already-discovered problem: the ticking bomb, the concealed sniper, the soul-drinking rune.  
 
 > [!tip] ***Combat Intuition***  
-> If you have a Sense Trouble rating of 8+, you can use your Sense Trouble rating (not pool) instead of another ability to determine your [[order of action]] in a contest or combat (see p. 61).  
+> If you have a Sense Trouble rating of 8+, you can use your Sense Trouble rating (not pool) instead of another ability to determine your [[NBA Getting it Done#Contests|order of action]] in a contest or combat (see p. 61).  
 
 ##### Shooting  
 You are adept with personal firearms, including their field stripping, repair, and identification. This skill also, for game-mechanical simplicity, covers crossbows and similar trigger-operated missile weapons, as well as RPGs, squad weapons (mortars and machine guns), shoulder-fired missiles, and the like.  
 
-Operating heavy artillery requires either [[General Abilities List#Driving|Driving]] (for weapons mounted on tanks or self-propelled guns), [[General Abilities List#Piloting|Piloting]] (for weapons mounted on air or watercraft), or [[General Abilities List#Mechanics|Mechanics]].  
+Operating heavy artillery requires either [[NBA General Abilities List#Driving|Driving]] (for weapons mounted on tanks or self-propelled guns), [[NBA General Abilities List#Piloting|Piloting]] (for weapons mounted on air or watercraft), or [[NBA General Abilities List#Mechanics|Mechanics]].  
 
-You can spend 2 points from your Shooting pool to attempt to hit a target at [[Long range]] with a pistol, or at up to 500 meters with a rifle. This spend does not adjust your roll; it makes it possible in the first place.  
+You can spend 2 points from your Shooting pool to attempt to hit a target at [[NBA Combat#Range|Long Range]] with a pistol, or at up to 500 meters with a rifle. This spend does not adjust your roll; it makes it possible in the first place.  
 
 ##### Shrink  
 You can provide comfort, perspective and solace to the mentally troubled. You may be a therapist or counsellor, a priest or pastor, or just a empathetic and intuitive individual. You can restore panicked characters to a [[state of calm]] (p. 85), and treat any [[long-term mental illnesses]] they accrue in the course of their operations (p. 85).  
 
 > [!tip] ***Talk It Out***  
-> If your Shrink rating is 8+, you receive 1 free rating point in one of: [[Investigative Abilities List#Bullshit Detector|Bullshit Detector]], [[Investigative Abilities List#Flattery|Flattery]], [[Investigative Abilities List#Interrogation|Interrogation]], or [[Investigative Abilities List#Reassurance|Reassurance]].  
+> If your Shrink rating is 8+, you receive 1 free rating point in one of: [[NBA Investigative Abilities List#Bullshit Detector|Bullshit Detector]], [[NBA Investigative Abilities List#Flattery|Flattery]], [[NBA Investigative Abilities List#Interrogation|Interrogation]], or [[NBA Investigative Abilities List#Reassurance|Reassurance]].  
 
 ##### Stability  
 Jarring or stressful events can exert a damaging, long-lasting psychological toll. Confrontation with monsters or other supernatural phenomena might provoke outright madness.  Your Stability rating indicates your resistance to mental trauma and psychic attack, along with general willpower and self-possession.  
@@ -276,19 +281,19 @@ You’re good at watching and following targets without revealing your presence.
 - anticipate blind spots in your coverage and plan for them, or use them to “dry clean” your own shadowers
 - determine a target’s regular pattern, including any chokepoints suitable for ambush or snatch jobs  
 
-Spotting a tail or other non-electronic surveillance of yourself might be Surveillance (if spotting the tail probably won’t lead to combat) or [[General Abilities List#Sense Trouble|Sense Trouble]] (if it will lead to combat); the Director should use their best judgment.  
+Spotting a tail or other non-electronic surveillance of yourself might be Surveillance (if spotting the tail probably won’t lead to combat) or [[NBA General Abilities List#Sense Trouble|Sense Trouble]] (if it will lead to combat); the Director should use their best judgment.  
 
-Use [[General Abilities List#Infiltration|Infiltration]] to creep around unnoticed, and to hide in cover. To hide in a crowd or blend into the background, to sneakily or cleverly shake a pursuer, or to stealthily follow a target, use Surveillance. To outrun a pursuer, use [[General Abilities List#Athletics|Athletics]].  
+Use [[NBA General Abilities List#Infiltration|Infiltration]] to creep around unnoticed, and to hide in cover. To hide in a crowd or blend into the background, to sneakily or cleverly shake a pursuer, or to stealthily follow a target, use Surveillance. To outrun a pursuer, use [[NBA General Abilities List#Athletics|Athletics]].  
 
 > [!tip] ***The Wire***  
-> 8+ ratings in Surveillance grants you 1 free point of the Investigative ability [[Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]].  
+> 8+ ratings in Surveillance grants you 1 free point of the Investigative ability [[NBA Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]].  
 
 ##### Weapons  
-You are skilled in the use of personal hand weapons such as knives, swords, or flexible batons. This ability covers most thrown melee weapons; throwing grenades falls under [[General Abilities List#Athletics|Athletics]].  
+You are skilled in the use of personal hand weapons such as knives, swords, or flexible batons. This ability covers most thrown melee weapons; throwing grenades falls under [[NBA General Abilities List#Athletics|Athletics]].  
 
-Using brass knuckles, a sap, or a roll of coins balled in your fist is a [[General Abilities List#Hand-to-Hand|Hand-to-Hand]] attack. Anything else falls under Weapons.  
+Using brass knuckles, a sap, or a roll of coins balled in your fist is a [[NBA General Abilities List#Hand-to-Hand|Hand-to-Hand]] attack. Anything else falls under Weapons.  
 
 > [!tip] ***Quincey Morris' Bowie Knife***  
-> If your Weapons rating is 8+, you can throw any balanced hand weapon (e.g. fighting knife, tomahawk, scalpel) at a target within [[Near range]] at no penalty to Difficulty or damage.
+> If your Weapons rating is 8+, you can throw any balanced hand weapon (e.g. fighting knife, tomahawk, scalpel) at a target within [[NBA Combat#Range|Near Range]] at no penalty to Difficulty or damage.
 
 

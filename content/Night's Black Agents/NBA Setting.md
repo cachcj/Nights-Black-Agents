@@ -1,3 +1,8 @@
+---
+title:
+  - Setting
+---
+
 It is 1989, and Germany is split between East and West — led by the **Soviet Union** and the **United States**. Berlin sits directly on that fault line.
 
 But something is changing. Things are getting better. Reforms under Mikhail Gorbachev have loosened control in Eastern Europe. Borders are shifting. Protests are growing. Governments are hesitating.

@@ -1,7 +1,12 @@
+---
+title:
+  - Getting it Done
+---
+
 ←[[index|Getting Started (main)]]
 
 > [!tip] ***TL;DR***
-> For a brief summary of the mechanics described on this page, visit [[TL;DR Getting it Done|here]]! Don't worry, the Director will clue you in on the more complex details if and when they become applicable.
+> For a brief summary of the mechanics described on this page, visit [[NBA TL;DR Getting it Done|here]]! Don't worry, the Director will clue you in on the more complex details if and when they become applicable.
 
 Night's Black Agents separates the business of discovering information with that of confronting the opposition. Your Investigative Abilities are your bread and butter when attempting the former, while the large majority of all other actions will depend on your General Abilities.
 
@@ -95,7 +100,7 @@ Contests occur when two characters, often a player character and an NPC, activel
 - Full contests amp up the drama; they're "showdowns": i.e., using Athletics to beat another skier to the bottom of the mountain.
 - Thriller chases are for action set pieces; in the spy thriller genre, as the name indicates, usually chase scenes: i.e., using Athletics for a full-blown parkour chase over the rooftops of Algiers.
 
-> [!note] Combat abilities (Hand-to-Hand, Shooting, and Weapons) use the [[Combat|Combat rules]]!
+> [!note] Combat abilities (Hand-to-Hand, Shooting, and Weapons) use the [[NBA Combat|Combat rules]]!
 
 ##### Player-Facing Contests
 Player-facing contests work exactly the same as simple tests: you roll against a Difficulty, and spend ability pool points to add to your die roll. The one exception: there are no “retries” against active opposition. If you fail, you either suffer the consequences immediately or kick the contest up to a full contest as your opponent gets a chance to counter your failed move.
@@ -131,9 +136,9 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > The Lead is used to track the back-and-forth of a thriller chase. The goal of the pursuer is to reduce the Lead to 0; the goal of the runner is to increase the Lead to 10, although this goal can be tweaked as circumstances dictate. Lead increments are abstract measurements of dramatic tension, not easily reducible to kilometres or yards.
 > 
 > > [!danger] ***Speed Always Wins***  
-> > Being faster than your opponent (being in a faster vehicle, being in a [[Diving Deeper|souped-up vehicle]], having a higher Athletics pool) always comes with benefits in a chase, for example getting bonuses to your chases ability die rolls.
+> > Being faster than your opponent (being in a faster vehicle, being in a [[NBA Diving Deeper|souped-up vehicle]], having a higher Athletics pool) always comes with benefits in a chase, for example getting bonuses to your chases ability die rolls.
 > 
-> If the Lead reaches 0 or below, *the pursuer has won*. The runner cannot run any more; they might have crashed or fallen, or simply be blocked by a car or a cul-de-sac. If the runner does not wish to surrender, a [[Combat|combat]] likely begins.
+> If the Lead reaches 0 or below, *the pursuer has won*. The runner cannot run any more; they might have crashed or fallen, or simply be blocked by a car or a cul-de-sac. If the runner does not wish to surrender, a [[NBA Combat|combat]] likely begins.
 > 
 > If the Lead reaches 10 (or whatever goal the Director has set) or higher, *the runner has won*. The pursuers have lost the runner; he cannot be found for the remainder of the scene unless he draws renewed attention to himself somehow.
 > 
@@ -143,9 +148,9 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > > If the runner fails at the raised Difficulty, the Difficulty drops back to its previous level for the next test. If the runner succeeds and the pursuer fails, the runner may choose between keeping the Difficulty raised or lowering it for the next encounter. If both succeed, the runner may choose to raise the Difficulty again, or keep it raised. The pursuer must agree to lower the Difficulty for the runner to lower it in this circumstance.
 
 > [!tip] ***Attacking During Chases***
-> Passengers in (or unruly strangers climbing onto) a vehicle involved in a chase use their combat abilities at +1 to the target's Hit Threshold (see [[Combat]]). 
+> Passengers in (or unruly strangers climbing onto) a vehicle involved in a chase use their combat abilities at +1 to the target's Hit Threshold (see [[NBA Combat]]). 
 > 
-> For broad dramatic purpose, consider a combat at Lead 1 or 2 to be Close range, Lead 3 through 6 to be Near range, and greater leads to be Long range (see [[Combat#Range|Range]]). Close range or not, you almost certainly cannot use Weapons or Hand-to-Hand between vehicles or runners during a chase. 
+> For broad dramatic purpose, consider a combat at Lead 1 or 2 to be Close range, Lead 3 through 6 to be Near range, and greater leads to be Long range (see [[NBA Combat#Range|Range]]). Close range or not, you almost certainly cannot use Weapons or Hand-to-Hand between vehicles or runners during a chase. 
 
 > [!tip] ***Investigative Abilities and Chases***
 > Before the chase begins, or between rounds in a chase, any player character — not just agents directly involved in the chase — can try to influence the contest by calling on a rated Investigative Ability. This is usually free, though spends might extend free benefits. In any given chase, each ability can only be invoked once.
@@ -161,7 +166,7 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > - Special Rule setup
 
 > [!warning] ***Multiple Pursuers***
-> If the player characters are the multiple pursuers, treat the chase as [[Getting it Done#Cooperation|Cooperation]], with one agent as "lead pursuer" and any other involved agents as the assistants. Agents providing sniper overwatch, riding in the back of the van, or otherwise marginal to the actual chase cannot spend chase pool points, but can use Investigative Abilities, attack convenient targets, or otherwise provide support in their fashion.
+> If the player characters are the multiple pursuers, treat the chase as [[NBA Getting it Done#Cooperation|Cooperation]], with one agent as "lead pursuer" and any other involved agents as the assistants. Agents providing sniper overwatch, riding in the back of the van, or otherwise marginal to the actual chase cannot spend chase pool points, but can use Investigative Abilities, attack convenient targets, or otherwise provide support in their fashion.
 > 
 > If the opposition are the multiple pursuers, more points are simply added to the opposition's chase pool to represent additional manpower, police cars, or what-have-you.
 
@@ -171,4 +176,4 @@ Other special rules and conditions may apply during thriller chases, as enumerat
 > A Sudden Escape requires a successful test of some kind. The Difficulty of the test is always at least 1 higher than the previous Difficulty in the chase. Success results in escape. A failure quite likely ends in a fireball or a bloody smear on the ground.
 
 ←[[index|Getting Started (main)]]
-[[Combat]]→
+[[NBA Combat|Combat]]→

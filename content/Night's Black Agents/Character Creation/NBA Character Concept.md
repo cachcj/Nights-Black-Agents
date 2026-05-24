@@ -1,3 +1,8 @@
+---
+title:
+  - Character Concept
+---
+
 ←[[NBA Character Creation|Character Creation (main)]]
 
 Like with most other games, your Character Concept for your Agent informs many of the decisions you would make throughout the character creation process. 
@@ -39,5 +44,5 @@ To make things easier for you, try to have an answer for some — if not all —
 
 Once you have a vague idea of the Agent you want to play, let's move on to the next step! You can either start by picking your skills and specialties, or by filling in your personal details and motivations!
 
-[[Backgrounds]]→ (To begin picking your abilities)  
-[[Dossier]]→ (To flesh out your motivations)
+[[NBA Backgrounds|Backgrounds]]→ (To begin picking your abilities)  
+[[NBA Dossier|Dossier]]→ (To flesh out your motivations)

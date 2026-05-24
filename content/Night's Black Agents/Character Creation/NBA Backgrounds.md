@@ -1,11 +1,16 @@
+---
+title:
+  - Backgrounds
+---
+
 ←[[NBA Character Creation|Character Creation (main)]]
-←[[Character Concept]]
+←[[NBA Character Concept|Character Concept]]
 
 Backgrounds represent your original training at MI6. They are simply suggested "packages" of abilities, existing to provide players with some shorthand guidelines to the breadth of their abilities. 
 
 Each Background package contains 6 points worth of Investigative Abilities and 18 points worth of General Abilities. In many cases, the writeup provides some alternate abilities to swap out for any of the provided abilities. 
 
-> View the available Backgrounds [[Background List|here]]. Feel free to add more than one Background!
+> View the available Backgrounds [[NBA Background List|here]]. Feel free to add more than one Background!
 
 ***Example Background:***  
 > [!tip] **Cobbler**  
@@ -32,4 +37,4 @@ Each Background package contains 6 points worth of Investigative Abilities and 1
 >- If you gain points added to any ability from two or more Backgrounds, you may either add together the ratings in each for a higher total, or refund some points to spend elsewhere (within the same Ability type).
 >- For each Background **after your first**, you will need to spend 6 Investigative Abilities points and 18 General Abilities points.
 
-[[Investigative Abilities]]→
+[[NBA Investigative Abilities|Investigative Abilities]]→

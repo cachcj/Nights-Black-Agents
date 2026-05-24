@@ -1,4 +1,9 @@
-←[[Investigative Abilities]]
+---
+title:
+  - Investigative Abilities List
+---
+
+←[[NBA Investigative Abilities]]
 
 Investigative Abilities are divided into three broad groups: 
  - Academic
@@ -140,7 +145,7 @@ You know how to navigate a bureaucratic organization, whether it’s a governmen
 - find the person who really knows what’s going on
 - convince third parties subject to a bureaucracy that you have a legitimate work order or request
 
-Bureaucracy is not a catch-all information gathering ability. Bureaucrats wish to convey the impression that they are busy and harried, whether or not they actually are. Most take a profound, secret joy in directing inquiries elsewhere. When characters attempt to use Bureaucracy to gain information more easily accessible via other abilities (such as [[Investigative Abilities List#Research|Research]]), their contacts simply lose the request and go to lunch early. For a contact who will really stick their neck out (so to speak), use the [[General Abilities List#Network|Network]] ability.
+Bureaucracy is not a catch-all information gathering ability. Bureaucrats wish to convey the impression that they are busy and harried, whether or not they actually are. Most take a profound, secret joy in directing inquiries elsewhere. When characters attempt to use Bureaucracy to gain information more easily accessible via other abilities (such as [[NBA Investigative Abilities List#Research|Research]]), their contacts simply lose the request and go to lunch early. For a contact who will really stick their neck out (so to speak), use the [[NBA General Abilities List#Network|Network]] ability.
 
 ##### Cop Talk
 You know how to speak the lingo of the police, and to make them feel confident and relaxed in your presence. You may
@@ -241,7 +246,7 @@ You use computer and electronic technology to retrieve and enhance seemingly ina
 - increase the clarity of audio recordings, zeroing in on desired elements
 - interpret and enhance spy plane and satellite imagery intel (IMINT), or even provide a real-time feed from a series of satellite downlinks
 
-Actually tasking a spy plane or satellite involves either Digital Intrusion (at very steep Difficulty), calling on your [[General Abilities List#Network|Network]], or making a big Interpersonal ability spend. Simply discovering information (including commercial satellite imagery) in a computer or electronic database is Research; illicit use of a protected computer system or database is Digital Intrusion.
+Actually tasking a spy plane or satellite involves either Digital Intrusion (at very steep Difficulty), calling on your [[NBA General Abilities List#Network|Network]], or making a big Interpersonal ability spend. Simply discovering information (including commercial satellite imagery) in a computer or electronic database is Research; illicit use of a protected computer system or database is Digital Intrusion.
 
 ##### Electronic Surveillance
 You’re adept at the use of sound and video recording equipment to gather intelligence. Given proper gear, you can:
@@ -269,18 +274,18 @@ In many cases, you can:
 
 ##### Forgery
 You fake things. Given time, originals (or good images), suitable materials, and work space, you can:
-- create a false passport, driving license, visa, or other government credential (see [[General Abilities List#Cover|Cover]])
+- create a false passport, driving license, visa, or other government credential (see [[NBA General Abilities List#Cover|Cover]])
 - forge handwriting with a sample to work from
 - forge a painting, sculpture, or other objet d’art
 - undetectably open and re-seal a sealed envelope, document pouch, or other “soft” container
 
 It takes less time and effort to create a fake credential that will never be checked: an employee ID badge for an office building, a fake police shield to get past a doorman, etc. Such fakes often prove useful in getting into places to find clues; the forged equivalents of (or equipment for) investigative use of
-the [[General Abilities List#Disguise|Disguise]] ability. They don’t cost points if:
+the [[NBA General Abilities List#Disguise|Disguise]] ability. They don’t cost points if:
 - They won’t pass a cross-check (essentially Cover 0); or 
 - They are needed to get a core clue.
 
 For every rating point you have in Forgery, you may declare that you’re “untouchable” in one specific type of forged book, item, or document: American passports, black-letter German vampire pamphlets, late-period Gauguins, or Turkish entry visas. By narrative fiat, your work in that field cannot be detected as a forgery under any circumstances short of your confession. It is perfect. (That said, a perfectly forged passport with no records backing it up will be put on a watch list sooner rather than later; such one-use “burn” passports essentially
-equal 1 point of [[General Abilities List#Cover|Cover]].)
+equal 1 point of [[NBA General Abilities List#Cover|Cover]].)
 
 You do not have to select your specific specialties until they come up in play, as long as you have the extra rating points. As with Driving, Languages, and other similar abilities, you may want to keep “slots” open in Forgery so that during an adventure you can reveal that you’ve “always” had a stash of Romanian Foreign Ministry stationery handy.
 
@@ -293,8 +298,8 @@ You’re adept at casing a scene and at finding important clues. This is the gen
 - notice signs of a previous search of the location
 - find and transfer fingerprints, fibre evidence, or other physical clues in a scene
 
-Spotting enemy surveillance or monitoring a location is [[General Abilities List#Surveillance|Surveillance]]; sensing a sniper lurking in the shadows is [[General Abilities List#Sense Trouble|Sense Trouble]]. Searching for a deliberately hidden object that is not a
-core clue is [[General Abilities List#Conceal|Conceal]].
+Spotting enemy surveillance or monitoring a location is [[NBA General Abilities List#Surveillance|Surveillance]]; sensing a sniper lurking in the shadows is [[NBA General Abilities List#Sense Trouble|Sense Trouble]]. Searching for a deliberately hidden object that is not a
+core clue is [[NBA General Abilities List#Conceal|Conceal]].
 
 ##### Outdoor Survival
 You have worked and lived outdoors and in the wild, possibly during a rural upbringing or extensive military service “in country.” You can:
@@ -335,4 +340,4 @@ You are familiar with working and living in cities, especially their seamier und
 - find open manholes, dangling fire escapes, and conveniently unlocked doors
 
 ###### Familiar City
-In addition, you can recall specifics (streets, restaurants, short cuts, etc.) of any city you’ve ever spent more than a few days in, and are familiar with its layout, police patrol patterns, etc. If you need (or the Director wants you) to track such cities, add one city for each rating point in Urban Survival you have, and one city for each separate cover you invent using the [[General Abilities List#Cover|Cover]] ability. As with [[Investigative Abilities List#Languages|Languages]], feel free to save “unassigned” slots and add Familiar Cities retroactively at need. Alternately (or in addition), the Director may allow you to add any city to your Familiar City list by spending 1 Urban Survival pool point.
+In addition, you can recall specifics (streets, restaurants, short cuts, etc.) of any city you’ve ever spent more than a few days in, and are familiar with its layout, police patrol patterns, etc. If you need (or the Director wants you) to track such cities, add one city for each rating point in Urban Survival you have, and one city for each separate cover you invent using the [[NBA General Abilities List#Cover|Cover]] ability. As with [[NBA Investigative Abilities List#Languages|Languages]], feel free to save “unassigned” slots and add Familiar Cities retroactively at need. Alternately (or in addition), the Director may allow you to add any city to your Familiar City list by spending 1 Urban Survival pool point.

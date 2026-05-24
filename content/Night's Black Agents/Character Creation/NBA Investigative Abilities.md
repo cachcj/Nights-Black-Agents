@@ -1,3 +1,8 @@
+---
+title:
+  - Investigative Abilities
+---
+
 ←[[NBA Character Creation]]
 
 Investigative Abilities are central to Night's Black Agents. They enable you to gather information and drive the plot forward. Investigative Abilities always succeed if they apply at all. 
@@ -8,7 +13,7 @@ When choosing Investigative Abilities, it is better to get a large number of abi
 
 A rating of 1 in an Investigate Ability indicates that you're expertly trained. A higher rating still (2 / 3) implies you're one of the top people working on that subject, and indicates the character's defining abilities!
 
-> [!note] Learn more about how Investigative Ability Ratings can be spent [[Getting it Done#Spends and Benefits|here]]!
+> [!note] Learn more about how Investigative Ability Ratings can be spent [[NBA Getting it Done#Spends and Benefits|here]]!
 
 Each rating point in an Ability costs 1 point. You get 20 Investigative Ability build points to spend on Investigative Abilities! 
 
@@ -19,7 +24,7 @@ Each rating point in an Ability costs 1 point. You get 20 Investigative Ability 
 > [!tip] **Tip:** Feel free to keep a few build points in reserve! You may always allocate them throughout the game as situations arise!
 
 
-[[General Abilities]]→
+[[NBA General Abilities]]→
 #### See Also
-[[Investigative Abilities List]] — For a more in-depth look at each Investigative Ability.
+[[NBA Investigative Abilities List]] — For a more in-depth look at each Investigative Ability.
 

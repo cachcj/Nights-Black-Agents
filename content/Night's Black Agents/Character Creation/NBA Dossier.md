@@ -1,5 +1,10 @@
+---
+title:
+  - Dossier
+---
+
 ←[[NBA Character Creation|Character Creation (main)]]  
-←[[General Abilities]]  
+←[[NBA General Abilities|General Abilities]]  
 
 With your various abilities assigned, and most likely some idea of your background and experience, it's time to finish putting together your character. If you’d like, of course, you can start at this end and build your agent’s emotional core first, then decide what experiences might have shaped them that way. From those elements, you can work up a background or two, and then build out their abilities as they become apparent.
 
@@ -10,7 +15,7 @@ The finishing touches — brand of cigarettes, ethnic heritage, dress sense, fam
 ### Sources of Stability (optional)
 Sources of Stability describe what and who keeps you sane when the stress of your life of lies, violence, and fear threatens to shred your psyche. These provide you with the strength, release, and hope to keep fighting the good fight and going back into that crypt every night.
 
-Damages or threats to your Sources of Stability trigger immediate, difficult [[#Diving Deeper|Stability tests]]. If you cannot tap your Sources of Stability, you cannot [[Diving Deeper|refresh Stability]] during or between operations! 
+Damages or threats to your Sources of Stability trigger immediate, difficult [[#Diving Deeper|Stability tests]]. If you cannot tap your Sources of Stability, you cannot [[NBA Diving Deeper|refresh Stability]] during or between operations! 
 
 Feel free to collaborate with other players if you wish to have a shared Source of Stability. Name them as follows:
 
@@ -32,7 +37,7 @@ This is the person and place you would flee to without thinking: your old traine
 
 It is very poor tradecraft to actually flee to your place of Safety. Even if the vampires, hostile intelligence and security services, or other conspiracies don’t already have the place wired, your flight there would put your would-be refuge in their crosshairs.
 
-If you do get there, it counts as a [[Diving Deeper|haven]] where you can immediately refresh three General ability pools. Any Preparedness tests you carry out there have a Difficulty that is 2 points lower than normal. In the very unlikely instance that you get there unobserved, you can refresh your whole Stability pool there, as well.
+If you do get there, it counts as a [[NBA Diving Deeper|haven]] where you can immediately refresh three General ability pools. Any Preparedness tests you carry out there have a Difficulty that is 2 points lower than normal. In the very unlikely instance that you get there unobserved, you can refresh your whole Stability pool there, as well.
 
 If your place of Safety has an owner or caretaker, you can activate them as a free contact (without spending any Network points) with a rating of 6. This rating cannot be rebuilt with Network or experience points. You can only activate this contact once during the entire life of your character.
 
@@ -47,11 +52,11 @@ On the other hand, if the character really dives in and lives his Drive, possibl
 
 Choose your character’s Drive at the beginning of play, from the following list. Think of it as a key to their personality. Feel free to propose to the Director a custom Drive that fills the same function as the ones given here. Write up an explanatory paragraph in the same vein as the supplied Drives. 
 
-> [!note] For a list of Drives, see [[Drives List|here]].
+> [!note] For a list of Drives, see [[NBA Drives List|here]].
 
 ### Maps and Legends
 Develop at least a mental sketch of your Agent's past. It doesn’t have to be too detailed — you want to leave some room for skills and cities and NPCs to get added to your dossier in play — but knowing your agent’s past can help you come up with Network contacts, Cover identities, and other game events in an organic and natural-seeming fashion. You don’t have to reveal any of your past to the other players, at least not immediately. Enigmatically dropping hints about “the Regiment” or “some unpleasant times in Afghanistan” is true to the genre, certainly. In the final analysis, whether you reveal your past will depend more on your player group chemistry than on any other factor; great games can happen with total openness or with mystifying opacity.
 
-←[[Investigative Abilities]] — to start filling out your Agent's abilities  
-←[[NBA Character Creation]] — to return to Character Creation  
-[[Getting it Done]]→ — to start learning to play the game!  
+←[[NBA Investigative Abilities|Investigative Abilities]] — to start filling out your Agent's abilities  
+←[[NBA Character Creation|Character Creation]] — to return to Character Creation  
+[[NBA Getting it Done]]→ — to start learning to play the game!  
