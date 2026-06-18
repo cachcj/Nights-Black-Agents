@@ -94,4 +94,36 @@ At the end of each operation, each player gets 5 experience points. These can be
 
 > [!warning] **Remember:** [[NBA General Abilities List#Cover|Cover]] identities and [[NBA General Abilities List#Network|Network]] contact pools can only be rebuilt with experience points, never refreshed!
 
+
+### Let's Get Tactical
+Berlin is a dangerous city, and MI6 does not let its case officers loose without drilling into them all the training that they would need. With enough drilling much of this training becomes second nature to an Agent, whether they are trading blows or conducting an operation. 
+
+#### Tactical Fact-Finding Benefits
+Fights in *Night's Black Agents* feature opportunities to apply Investigative skills to the battlespace. These can occur during interstitial investigative sequences, or during the fight scenes themselves. In keeping with the acronym-heavy spirit of a spy thriller, these are called **TFFBs**, for *Tactical Fact-Finding Benefits*.
+
+Each **TFFB** has the following four elements:
+- the Investigative ability used to gain the advantage
+- the action required to find the information
+- the tactical circumstance under which the benefit comes into play
+- the nature of the benefit
+
+Although the most obvious ability to yield a **TFFB** is [[NBA Investigative Abilities List#Military Science|Military Science]], the other Investigative abilities can also yield plenty of useful information.
+
+- Interpersonal abilities can elicit (or wring) valuable tactical data from allies, witnesses, shady middlemen, prisoners, and enemy operatives.
+- [[NBA Investigative Abilities List#Human Terrain|Human Terrain]] can predict where the enemy will make a stand, or indicate likely key personnel.
+- [[NBA Investigative Abilities List#Forensic Pathology|Forensic Pathology]] and [[NBA Investigative Abilities List#Criminology|Criminology]] can determine an unknown monster's attack pattern.
+- [[NBA Investigative Abilities List#Traffic Analysis|Traffic Analysis]] can estimate the reaction time of any off-site reinforcements, or even the size of the current garrison.
+- [[NBA Investigative Abilities List#Cryptography|Cryptography]] cracks the tactical information in encoded enemy communications.
+- [[NBA Investigative Abilities List#Urban Survival|Urban Survival]] could determine dead ends or escape routes to herd targets towards or away from.
+- [[NBA Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]], after an Infiltration exercise, might secure a floor plan of the site to be raided — as might [[NBA Investigative Abilities List#Bureaucracy|Bureaucracy]].
+- [[NBA Investigative Abilities List#Architecture|Architecture]] could discover possibly unguarded entry points as sewer mains.
+
+
+
+
+
+
+
+
+
 ←[[Night's Black Agents|Getting Started (main)]]
