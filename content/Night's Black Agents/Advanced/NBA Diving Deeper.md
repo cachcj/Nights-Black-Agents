@@ -118,11 +118,25 @@ Although the most obvious ability to yield a **TFFB** is [[NBA Investigative Abi
 - [[NBA Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]], after an Infiltration exercise, might secure a floor plan of the site to be raided — as might [[NBA Investigative Abilities List#Bureaucracy|Bureaucracy]].
 - [[NBA Investigative Abilities List#Architecture|Architecture]] could discover possibly unguarded entry points as sewer mains.
 
+##### Benefits
+Benefits of tactical investigation may take the following forms:
+- **Refreshes:** one or more agents gain a refresh of a set number of pool points in a designated ability or abilities.
+- **Team pool:** the whole team gains a access to a shared pool of points in a designated ability or abilities. Any player can spend them as though they were their own. If the scene ends with team points unused, they disappear.
+- **Difficulty adjust:** The Difficulty of a specific action decreases for the team, or a team member, or increases for an enemy or enemies. The most obvious example is a decreased effective [[NBA Combat#Hit Thresholds|Hit Threshold]] for enemies, or an increased effective Hit Threshold for oneself.
+- **Enemy pool reductions:** When the benefit's triggering circumstance comes into play, the opposition loses a particular number of points in one or more pools.
+- **Surprise:** The agents are able to [[NBA Combat#Surprise|surprise]] the enemy. In some cases, they can also begin the fight with one or more rounds during which the enemy is unable to return fire or perform other actions.
 
+##### Fact-Finding in Combat
+Right before a fight, each player gets the chance to query a single Investigative ability. When an appropriate ability is a named, the Director supplies the tactically beneficial information. Facts found are usually free, though the rare example providing an extraordinary tactical benefit may require a spend. 
 
+Each player also gets to invoke another ability at the start of each of their turns. This does not cost an action.
 
-
-
+> [!info] ***TFFB Example***  
+> Having determined that some unknown monster is preying on the docks of Antwerp, the team establishes covert Electronic Surveillance of likely target areas. By analysing the footage, they can determine the beast’s capacity for damage — and perhaps some potential weaknesses. (“Note that it stayed out of the street light. Does it hate light? Sodium? Electrical fields?”)
+> 
+> When they actually go after the thing, they will start out with a team pool of 8 points to use for any General ability during the upcoming combat, along with an estimated Athletics and Hand-to-Hand value (as with Eye of the Tiger, p. 31) for it, some notion of its Hit Threshold, and leads to potential weaknesses if any.
+> 
+> *Triggering action: rigging the site for the ability (Electronic Surveillance) and analysing the footage; circumstance: going after a scouted creature on scouted ground; benefit: team pool and intel.*
 
 
 

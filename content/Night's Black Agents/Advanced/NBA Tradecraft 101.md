@@ -56,34 +56,37 @@ Those three steps can be three nice little scenes in a mini-op that nets you an 
 the latter especially in stakes games. A Money flip usually needs excessive fund, but if the agents can help a capo to rise in the Genoa mafia by wiping out a Corsican rival, that gives a suitable Money-style reward — and the Coercion can come when they threaten to tell the Union Corse that he ordered the hit.
 
 ##### Asset Running
-Once you’ve got an asset, you can spend 1 Interpersonal pool point (of whatever sort you and the Director agree is appropriate) to get information from him; you can spend 2 Interpersonal pool points to make him do something risky
-for you. If you spend [[NBA Investigative Abilities List#Tradecraft|Tradecraft]], you can gain information or cooperation covertly (although if your asset is under pressure,
-you may need to make a [[NBA General Abilities List#Surveillance|Surveillance]] test to avoid blowing his cover). If the Director plants a core clue with your asset, getting
-that information from him never requires a spend.
+Once you’ve got an asset, you can spend 1 Interpersonal pool point (of whatever sort you and the Director agree is appropriate) to get information from him; you can spend 2 Interpersonal pool points to make him do something risky for you. If you spend [[NBA Investigative Abilities List#Tradecraft|Tradecraft]], you can gain information or cooperation covertly (although if your asset is under pressure, you may need to make a [[NBA General Abilities List#Surveillance|Surveillance]] test to avoid blowing his cover). If the Director plants a core clue with your asset, getting that information from him never requires a spend.
 
 The difference between an asset and a [[NBA General Abilities List#Network|Network]] contact is that an asset might betray you, lose his nerve, screw up, or otherwise turn things interesting and dangerous. Network contacts are more reliable: but then, they cost Network points to create, and assets don’t.
 
 ##### Adversary Mapping
-The ongoing goal of intelligence operations is to uncover the opposition’s network, facilitating its destruction, rolling up, or isolation. Agents typically conclude a given investigation by updating their adversary map, a speculative org chart identifying
-the apparent relationships between the members of the vampire conspiracy. Adding one or two names, or a suggestive
-surveillance photo, to the adversary map, counts as a victory regardless of how the rest of the operation might have gone. By
-understanding the relationships between your foes, you know where to lean on them, who to expect to respond, and which seemingly innocuous bureaucrat to kidnap for further intel.
+The ongoing goal of intelligence operations is to uncover the opposition’s network, facilitating its destruction, rolling up, or isolation. Agents typically conclude a given investigation by updating their adversary map, a speculative org chart identifying the apparent relationships between the members of the vampire conspiracy. Adding one or two names, or a suggestive surveillance photo, to the adversary map, counts as a victory regardless of how the rest of the operation might have gone. By understanding the relationships between your foes, you know where to lean on them, who to expect to respond, and which seemingly innocuous bureaucrat to kidnap for further intel.
 
-Spending Human Terrain and Traffic Analysis points may get an outline or a generic structure up on the map; agents conduct individual Surveillance tests, asset interviews, and even whole
-operations to fill in the specifics. Then, Human Terrain and Traffic Analysis can confirm the targets’ place on the map
-and suggest new directions: “Someone has to be running the money to these guys,” or “There are a lot of connections to the
-NATO air base in this signals tranche: maybe we should be looking for a Renfield officer there.” The adversary map begins to suggest possibilities on its own; the clever Director will roll with those suggestions and only occasionally guide the players
-with specific intel.
+Spending [[NBA Investigative Abilities List#Human Terrain|Human Terrain]] and [[NBA Investigative Abilities List#Traffic Analysis|Traffic Analysis]] points may get an outline or a generic structure up on the map; agents conduct individual [[NBA General Abilities List#Surveillance|Surveillance]] tests, asset interviews, and even whole
+operations to fill in the specifics. Then, Human Terrain and Traffic Analysis can confirm the targets’ place on the map and suggest new directions: “Someone has to be running the money to these guys,” or “There are a lot of connections to the NATO air base in this signals tranche: maybe we should be looking for a Renfield officer there.” The adversary map begins to suggest possibilities on its own; the clever Director will roll with those suggestions and only occasionally guide the players with specific intel.
 
-Once the players have filled in a give section of the adversary map, they get a team pool (see p. 108) for ops of any kind (surveillance, penetration, flipping, or good old ultra-violence) against a target in that section. As a rule, they receive a team of 2 pool points in any General ability or abilities per mapped connection to the target. Add a pool point if an Interpersonal
-spend has suggested a fruitful approach or attack strategy. (Flirting discovers he likes redheads; Cop Talk indicates he’s under pressure from a reformist magistrate.) The Director may adjust this up or down; in general, the higher on the org chart,
-the bigger the pool bonus per connection.
+Once the players have filled in a give section of the adversary map, they get a [[NBA Diving Deeper#Benefits|team pool]] for ops of any kind (surveillance, penetration, flipping, or good old ultra-violence) against a target in that section. As a rule, they receive a team of 2 pool points in any General ability or abilities per mapped connection to the target. Add a pool point if an Interpersonal spend has suggested a fruitful approach or attack strategy. (Flirting discovers he likes redheads; Cop Talk indicates he’s under pressure from a reformist magistrate.) The Director may adjust this up or down; in general, the higher on the org chart, the bigger the pool bonus per connection.
 
-### Tools
+> [!tip] ***Team Pool***  
+> While this is all a lot to take in, the Director will always keep track of the *Team Pool*, and the abilities they can be applied to.
 
-### Spytech
+### Fantastic Tools ...
+Superior equipment may not guarantee victory where it comes to espionage and counter-espionage, but it certainly helps. Superior gear may grant the side using it a contest advantage, lowering their Difficulty number by 1, or alternatively conferring a team pool of 4 or more points.
 
-### Tag-Team Tactical Benefits
+Getting such a gear edge on a prepared, well-funded foe usually requires a separate operation to either raise cash or directly obtain specialised equipment tailored for the specific mission.
+
+Miniaturising or disguising spytech as something else — a pen, jewellery, a watch — requires [[NBA General Abilities List#Mechanics|Mechanics]] (or [[NBA General Abilities List#Conceal|Conceal]], to hide already miniaturised gear inside an innocuous item), tools, and at least a day of work.
+
+> [!note] ***Standard Equipment***
+> Under each general heading, **Standard Equipment** lists the sort of things that can be handwaved, openly bought or easily kitbashed, or supplied with [[NBA General Abilities List#Preparedness|Preparedness]] unless the Director wants to emphasise access to equipment as a specific element of a given operation.
+
+#### Communications
+
+
+
+### ... and Where to Find Them
+
 
 
 ←[[Night's Black Agents|Getting Started (main)]]
