@@ -82,10 +82,106 @@ Miniaturising or disguising spytech as something else — a pen, jewellery, a wa
 > Under each general heading, **Standard Equipment** lists the sort of things that can be handwaved, openly bought or easily kitbashed, or supplied with [[NBA General Abilities List#Preparedness|Preparedness]] unless the Director wants to emphasise access to equipment as a specific element of a given operation.
 
 #### Communications
+Communications equipment seldom requires any special ability to use at a basic level.
+
+Jamming equipment is generally controlled. Agents need to build it over a few days or source it from a [[NBA General Abilities List#Preparedness|Cache]] or [[NBA General Abilities List#Network|Network]] contact, as such things are uncommon in the black market. 
+
+> **Standard Equipment:** 
+> CB radio, frequency-switching gear, glow stick, headphones, , microphone, multi-band receiver, notebook, pen/pencil, , police scanner, radio transmitter, scrambler or DES, walkie-talkie, waterproof marker.
+
+##### Comms Laser
+Uses a modulated tight-beam laser to send a message safe against jamming or interception except by opponents directly in the laser’s line of sight. It can also only communicate with allies or receivers directly in the laser’s line of sight; aiming at any but a predesignated spot requires a [[NBA General Abilities List#Shooting|Shooting]] test.
+
+##### Satellite Communications Terminal
+Relays calls or data transmissions through overhead communications satellites independent of the local cellular network (or lack thereof).
+
+##### Tactical Earbud
+Wired to a radio worn on the agent's person. The single earbud combines earphone and microphone. If selected in [[NBA General Abilities List#Preparedness|Cache]], there are enough earbuds for every agent.
+
+
+#### Explosive Devices
+Simply pressing the red button when the bang-and-burner tells you to takes no special skill. Using anything more sophisticated than that requires at least minimal [[NBA General Abilities List#Explosive Devices|Explosive Devices]] or a tolerant and forgiving Director.
+
+Detonators can be easily built (Difficulty 4 Explosive Devices test), with or without blasting caps. Sourcing dynamite and blasting caps may require [[NBA Investigative Abilities List#Streetwise|Streetwise]], [[NBA General Abilities List#Network|Network]], or a [[NBA General Abilities List#Preparedness|Cache]], especially if the agents tend to run through a lot of the stuff. Sourcing plastic explosives or grenades definitely requires the above. Once sourced, however, an agent with Explosive Devices can be assumed to have some in his pack on an op without resorting to Preparedness.
+
+> **Standard Equipment:** 
+> Bleach, candles, cell phone, chlorine, detonator, duct tape, electrical tape, fertilizer and fuel oil, fireworks, gasoline, hand or road flare, lighter, matches, radio transmitter, remote control, smoke bombs, wire cutters, wires of many colours. 
+
+##### Det Cord
+Detonating cord, or Primacord, is a centimetre-thick cable made of high explosive under a fibre-and-plastic sheath. When ignited, it detonates nigh-instantaneously. It can be used to connect multiple charges for simultaneous implosions, to cut through a girder, to booby trap a stretch of road, or to open a really stubborn crypt. Specialized “cutting cord” has a shaped charge inside the cord; its primary use is to blow openings in walls or to blow open heavy doors or vehicles.
+
+##### Flash-Bang Grenade
+A “nonlethal” grenade for police and SWAT use, the flash-bang does just what its name implies: explodes with a brilliant blinding flash and a deafening bang. Your unprotected foes make a [[NBA General Abilities List#Health|Health]] test at Difficulty 8 and remain blinded and deafened for a number of rounds equal to their margin of failure on the test. A flash-bang detonation near inflammable materials (cloth, paper, volatile chemicals) may cause a fire.
+
+##### Simulators
+Some of these devices simulate bomb explosions; others resemble fireworks but make a much more realistic gunfire sound when they go off.
+
+
+#### Infiltration
+Most standard infiltration equipment requires either [[NBA General Abilities List#Infiltration|Infiltration]] or no special ability to use. Vigorous use of ropes, grapnels, etc. often requires an [[NBA General Abilities List#Athletics|Athletics]] test.
+
+> **Standard Equipment:**
+> Bolt cutters, alarm bypass circuits, caltrops, camouflage clothing, compass, cordless drill, crowbar, duct tape, fingerprint powder, flashlight, gas mask, glass cutter, glow stick, go-bar, grapnel, lockpicks, map, parachute, rappelling kit, rope, spike strip, spray paint, wire cutters.
+
+##### Lockpick Gun
+Uses brute force to open a lock by pushing small metal rods into the pins and tumblers. Works on most commercial locks; high-grade, specialized, or custom-built locks thwart its relatively clumsy mechanism. Agents with [[NBA General Abilities List#Infiltration|Open Sesame]] don’t need one.
+
+##### Rebreather
+Recirculates the swimmer’s air, fixing the CO2 and extending underwater time to 4 hours with no tell-tale bubbles. Using either sort of rebreather is tricky and exhausting, adding +2 to the Difficulty of the swimming [[NBA General Abilities List#Athletics|Athletics]] test.
+
+
+#### Surveillance
+Using most surveillance equipment requires either the [[NBA Investigative Abilities List#Electronic Surveillance|Electronic Surveillance]] or [[NBA General Abilities List#Mechanics|Mechanics]] ability, although anyone with [[NBA General Abilities List#Conceal|Conceal]] can plant a device. 
+
+Phone taps, cellular scanners, cellular jammers, bug detectors, and miniaturized surveillance gear (transmitters, tracking beacons, microphones, and cameras) need to be built from innocuous parts or sourced with [[NBA General Abilities List#Network|Network]] or a [[NBA General Abilities List#Preparedness|Cache]]. (In general, they’re not common enough to be available with Streetwise.) Once sourced, however, an agent with Electronic Surveillance can be assumed to have such equipment in his black bag or wire rat kit without Preparedness.
+
+> **Standard Equipment:**
+> A/V transceivers and transmitters, binoculars, camcorder, camera, cassette recorder, cordless drill, directional microphone, map, police scanner, RF detector, tape measure, tracking beacon, white noise generator.
+
+##### Fibreoptic Scope
+This fibreoptic cable connects to a tiny (2.5mm) passive video camera at one end, and plugs into a transmitter or video display at the other. Agents can snake the cable under doors, into a safe or briefcase, through a hole in the wall or floor, through pipes or wires, etc. and observe an interior space without being seen.
+
+##### Laser Microphone
+Reads the vibrations of window glass to resolve sounds or speech inside the room. Specialised software can filter out music, other conversations, or other ambient sound. A laser mike cannot be detected by bug detectors, though it can be thwarted with white noise or very heavy curtains.
+
+##### Night Vision Optics
+Against a foe without night vision, using NVO (night-vision optics) gives agents the possibility of surprise, and a likely contest advantage to boot). NVO is likely to lower Difficulties for Surveillance and Sense Trouble tests at night. Older East Bloc models use built-in IR illuminators, making them stand out brightly to anything that can see in infrared. Other models either enhance ambient light or see solely in false-colour infrared: useless in utter darkness or against beings with no body heat, respectively.
+
+All of these NVO options are available in scopes for rifles or pistols.
+
+##### TEMPEST Monitor
+This system intercepts the radio waves broadcast by computer monitors, including ATM screens, laptop monitors, medical readouts, and CCTV screens. (High-security monitors and screens might be TEMPEST-hardened.) It can read any screen within 300 meters; it requires an antenna, a receiver box, and a laptop running software to process and read the signals.
 
 
 
 ### ... and Where to Find Them
+Over the course of the game, Agents will accumulate (and destroy) prodigious quantities of stuff. Where does it all come from?
+
+#### Handwave It
+This is not your first rodeo. Your agents have been operating in the shadow world for years; they already have some gear available to them in at least one relatively secure stash. You can assume possession of pretty much any conventional genre-appropriate item that Preparedness doesn’t cover — for the rest, there’s [[NBA General Abilities List#Preparedness|Preparedness]].
+
+##### Cache
+You’ve stashed gear against just such an eventuality, or you know a dead drop where your agency used to put unregistered guns, spare bugs, etc. Make a Preparedness test at Difficulty 6 to locate such a cache. You can spend Network pool points on this test as well. The Difficulty is 4 if the cache is in one of your Familiar Cities.
+
+When you open the cache, every player can spend 1 Preparedness pool point to name one piece of equipment that you stashed there: you may name two pieces of equipment for free. A cache can include one vehicle. This equipment may or may not be top of the line, fully reliable, or well maintained: a roll of 1 while using cached equipment might cause a malfunction or jam at the Director’s discretion.
+
+#### Buy It
+If the gear is legal — sporting ammunition, high-power UV lamps, car batteries, a panel van, that sort of thing — you can just buy it. Precursor materials for napalm, horse tranquilizers, electronics for bugs — all kinds of stuff just sits on store shelves right now. Agents may be able to use Chemistry, Electronic Surveillance, Pharmacy, or other abilities to figure out open sources for dodgy gear, or a quick investigative Disguise to impersonate someone who can legally purchase it.
+
+Illegal or grey-market gear takes [[NBA Investigative Abilities List#Streetwise|Streetwise]] (or a suitable [[NBA General Abilities List#Network|Network]] contact) to locate. The Director may simply let that suffice to acquire the desired goods, require a Streetwise spend (for large quantities of merchandise, multiple or military weapons, or very illegal goods), or actually play out a meetup that might involve an ambush, a recruitment offer, a sting, a cheat (“these aren’t fully automatic”), or some sort of double-cross.
+
+#### Make It
+Assuming you have the correct tools (which can be bought or handwaved for agents with [[NBA General Abilities List#Mechanics|Mechanics]]), materials (see Buy It) and workspace (likely through [[NBA General Abilities List#Network|Network]]), you can build or upgrade most of your needed gear. Most things — from silencers to surveillance equipment to silver bullets — are considerably easier to kitbash together from parts. Agents may need to make just a Mechanics test against a set Difficulty (given pre-existing parts), or to also spend points from related pools (Chemistry, Driving, Electronic Surveillance, Shooting, etc.) to kitbash or scratch-build gear. A test of Explosive Devices or a Forgery spend is all that’s needed to make a bomb or a passport; merely possessing Pharmacy lets an agent concoct common drugs, with quantity, specificity, or rapid production possibly requiring a pool point spend.
+
+#### Source It
+The easiest and fastest way to get something is by using the [[NBA General Abilities List#Network|Network]] ability to build a contact who has it. If you need a safe house, build a station agent or site minder with Network; if you need a vehicle, build the bent motor pool boss at a local trucking yard with Network; if you need a Stinger missile, build an arms dealer with Network. In all cases, your contact will need to make
+a roll to actually come through for you, but that’s why you spend the points.
+
+This may still — and often does, for arms or fake IDs — require the expenditure of cash. As a general rule, the result from your Network is twice what the equivalent [[NBA Investigative Abilities List#Streetwise|Streetwise]] spend would
+get you.
+
+#### Steal It
+The last way to get what you want is to take it from whoever has it. A [[NBA General Abilities List#Filch|Filch]] test is often faster, cleaner, and cheaper than any of the alternatives. For gear or goods stored somewhere with high security (such as most gun shops, police stations, jewellery stores, etc.) the agents may need to mount a mini-op to rob the joint, complete with Digital Intrusion, Infiltration, Surveillance, and even Hand-to-Hand tests against security.
 
 
 

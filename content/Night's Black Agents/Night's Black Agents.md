@@ -14,6 +14,6 @@ Below are links to pages describing the various aspects of the game. You needn't
 [[NBA Combat|Combat]] — to see the rules for combat  
 
 
-[[NBA Diving Deeper|Diving Deeper]] — Work in Progress! Describes advanced mechanics like Heat (attention) / safe havens / gaining and losing Stability (mental health)  
-[[NBA Tradecraft 101|Tradecraft 101]] — Work in Progress! Describes equipment and standard practices  
+[[NBA Diving Deeper|Diving Deeper]] — Describes advanced mechanics like Heat (attention) / safe havens / gaining and losing Stability (mental health)  
+[[NBA Tradecraft 101|Tradecraft 101]] — Describes equipment and standard practices  
 
