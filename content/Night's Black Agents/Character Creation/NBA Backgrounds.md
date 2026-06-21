@@ -35,6 +35,6 @@ Each Background package contains 6 points worth of Investigative Abilities and 1
 > [!note] **System:**
 > - Add the points afforded by your chosen Background to the relevant abilities on your sheet.
 >- If you gain points added to any ability from two or more Backgrounds, you may either add together the ratings in each for a higher total, or refund some points to spend elsewhere (within the same Ability type).
->- For each Background **after your first**, you will need to spend 6 Investigative Abilities points and 18 General Abilities points.
+>- Each Background will cost you 6 Investigative Abilities points and 18 General Abilities points.
 
 [[NBA Investigative Abilities|Investigative Abilities]]→
