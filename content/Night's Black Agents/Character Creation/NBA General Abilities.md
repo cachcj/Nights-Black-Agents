@@ -16,7 +16,7 @@ Unlike with Investigative Abilities — where you are incentivised to build "wid
 
 > [!warning] Although there is no set cap on ability ratings, the second highest rating must be at least half that of the highest rating (not including Cover or Network).
 
-Each rating point in an Ability costs 1 point. You get 60 Investigative Ability build points to spend on General Abilities!   
+Each rating point in an Ability costs 1 point. You get 78 Investigative Ability build points to spend on General Abilities!   
 
 > [!tip] **Remember:** You start the game with "normal" Health and Stability ratings of 4 for free, but it's advisable to buy more points in those abilities (to a cap of 10 and 12, respectively) so that your Agent can stand up to the inevitable punishment to come.  
 

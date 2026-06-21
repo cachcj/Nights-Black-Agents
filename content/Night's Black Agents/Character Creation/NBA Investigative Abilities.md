@@ -15,7 +15,7 @@ A rating of 1 in an Investigate Ability indicates that you're expertly trained. 
 
 > [!note] Learn more about how Investigative Ability Ratings can be spent [[NBA Getting it Done#Spends and Benefits|here]]!
 
-Each rating point in an Ability costs 1 point. You get 20 Investigative Ability build points to spend on Investigative Abilities! 
+Each rating point in an Ability costs 1 point. You get 28 Investigative Ability build points to spend on Investigative Abilities! 
 
 > [!warning] **Remember:** You start the game with 1 free rating point in each of Streetwise and Tradecraft!
 

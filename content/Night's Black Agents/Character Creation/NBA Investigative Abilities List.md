@@ -341,3 +341,6 @@ You are familiar with working and living in cities, especially their seamier und
 
 ###### Familiar City
 In addition, you can recall specifics (streets, restaurants, short cuts, etc.) of any city you’ve ever spent more than a few days in, and are familiar with its layout, police patrol patterns, etc. If you need (or the Director wants you) to track such cities, add one city for each rating point in Urban Survival you have, and one city for each separate cover you invent using the [[NBA General Abilities List#Cover|Cover]] ability. As with [[NBA Investigative Abilities List#Languages|Languages]], feel free to save “unassigned” slots and add Familiar Cities retroactively at need. Alternately (or in addition), the Director may allow you to add any city to your Familiar City list by spending 1 Urban Survival pool point.
+
+  
+←[[NBA Investigative Abilities]]
