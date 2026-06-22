@@ -147,7 +147,7 @@ This is the straightforward, meat-and-potatoes sort of agent: given a problem, h
 
 ***Investigative Abilities:***  
 - Cop Talk 1
-- Interrogation 1
+- Interrogation 2
 - Law 1
 - Notice 2
 - Alternates: Criminology, Intimidation, Streetwise
