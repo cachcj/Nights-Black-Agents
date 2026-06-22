@@ -274,7 +274,7 @@ Jarring or stressful events can exert a damaging, long-lasting psychological tol
 
 > [!attention] **Remember:** All player characters start with Stability 4, and your Stability is capped at 12.  
 
-###### Surveillance  
+##### Surveillance  
 You’re good at watching and following targets without revealing your presence. You can:  
 - guide a team to follow a target for short periods, handing off to the next in sequence, so the target doesn’t realize he’s being trailed
 - find undetectable vantage points for single-point coverage by eyeball or video
